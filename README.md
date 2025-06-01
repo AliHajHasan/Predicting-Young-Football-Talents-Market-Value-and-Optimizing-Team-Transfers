@@ -1,5 +1,4 @@
 # Predicting-Young-Football-Talents-Market-Value-and-Optimizing-Team-Transfers
-# Predicting-Young-Football-Talents-Market-Value-and-Optimizing-Team-Transfers
 ## Project Overview
 
 This thesis presents a data-driven framework designed to enhance football club transfer strategies by predicting the market value of young players and optimizing player acquisitions. The approach integrates predictive modeling with optimization techniques to support informed recruitment decisions.
