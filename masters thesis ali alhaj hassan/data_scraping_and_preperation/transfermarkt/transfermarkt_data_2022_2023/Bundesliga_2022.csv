@@ -1,0 +1,646 @@
+Club,Player,Market Value (€)
+Bayern Munich,Manuel Neuer,7000000.0
+Bayern Munich,Yann Sommer,5000000.0
+Bayern Munich,Sven Ulreich,700000.0
+Bayern Munich,Johannes Schenk,300000.0
+Bayern Munich,Matthijs de Ligt,75000000.0
+Bayern Munich,Dayot Upamecano,60000000.0
+Bayern Munich,Benjamin Pavard,40000000.0
+Bayern Munich,Tanguy Nianzou,7500000.0
+Bayern Munich,Daley Blind,3000000.0
+Bayern Munich,Justin Janitzek,500000.0
+Bayern Munich,Liam Morrison,300000.0
+Bayern Munich,Gabriel Marusic,150000.0
+Bayern Munich,Alphonso Davies,70000000.0
+Bayern Munich,Lucas Hernández,45000000.0
+Bayern Munich,João Cancelo,50000000.0
+Bayern Munich,Noussair Mazraoui,28000000.0
+Bayern Munich,Josip Stanisic,12000000.0
+Bayern Munich,Bouna Sarr,2000000.0
+Bayern Munich,Joshua Kimmich,75000000.0
+Bayern Munich,Ryan Gravenberch,30000000.0
+Bayern Munich,Aleksandar Pavlovic,0.0
+Bayern Munich,Leon Goretzka,45000000.0
+Bayern Munich,Marcel Sabitzer,20000000.0
+Bayern Munich,Jamal Musiala,110000000.0
+Bayern Munich,Paul Wanner,3000000.0
+Bayern Munich,Arijon Ibrahimovic,1000000.0
+Bayern Munich,Kingsley Coman,65000000.0
+Bayern Munich,Serge Gnabry,55000000.0
+Bayern Munich,Sadio Mané,25000000.0
+Bayern Munich,Leroy Sané,65000000.0
+Bayern Munich,Thomas Müller,12000000.0
+Bayern Munich,Gabriel Vidovic,2500000.0
+Bayern Munich,Mathys Tel,20000000.0
+Bayern Munich,Joshua Zirkzee,9000000.0
+Bayern Munich,Eric-Maxim Choupo-Moting,5000000.0
+Borussia Dortmund,Gregor Kobel,35000000.0
+Borussia Dortmund,Marcel Lotka,1500000.0
+Borussia Dortmund,Alexander Meyer,1000000.0
+Borussia Dortmund,Luca Unbehaun,650000.0
+Borussia Dortmund,Silas Ostrzinski,150000.0
+Borussia Dortmund,Nico Schlotterbeck,40000000.0
+Borussia Dortmund,Niklas Süle,35000000.0
+Borussia Dortmund,Mats Hummels,6000000.0
+Borussia Dortmund,Soumaïla Coulibaly,1000000.0
+Borussia Dortmund,Antonios Papadopoulos,600000.0
+Borussia Dortmund,Raphaël Guerreiro,20000000.0
+Borussia Dortmund,Tom Rothe,3500000.0
+Borussia Dortmund,Nico Schulz,1000000.0
+Borussia Dortmund,Julian Ryerson,13000000.0
+Borussia Dortmund,Marius Wolf,10000000.0
+Borussia Dortmund,Thomas Meunier,5000000.0
+Borussia Dortmund,Felix Passlack,1500000.0
+Borussia Dortmund,Mateu Morey,1000000.0
+Borussia Dortmund,Emre Can,14000000.0
+Borussia Dortmund,Salih Özcan,13000000.0
+Borussia Dortmund,Abdoulaye Kamara,1000000.0
+Borussia Dortmund,Mahmoud Dahoud,12000000.0
+Borussia Dortmund,Jude Bellingham,120000000.0
+Borussia Dortmund,Julian Brandt,40000000.0
+Borussia Dortmund,Giovanni Reyna,25000000.0
+Borussia Dortmund,Marco Reus,7000000.0
+Borussia Dortmund,Göktan Gürpüz,300000.0
+Borussia Dortmund,Karim Adeyemi,40000000.0
+Borussia Dortmund,Jamie Gittens,14000000.0
+Borussia Dortmund,Julien Duranville,8500000.0
+Borussia Dortmund,Thorgan Hazard,7000000.0
+Borussia Dortmund,Donyell Malen,28000000.0
+Borussia Dortmund,Justin Njinmah,800000.0
+Borussia Dortmund,Marco Pasalic,350000.0
+Borussia Dortmund,Sébastien Haller,30000000.0
+Borussia Dortmund,Youssoufa Moukoko,30000000.0
+Borussia Dortmund,Anthony Modeste,700000.0
+RB Leipzig,Péter Gulácsi,5000000.0
+RB Leipzig,Janis Blaswich,2500000.0
+RB Leipzig,Ørjan Nyland,600000.0
+RB Leipzig,Jonas Nickisch,200000.0
+RB Leipzig,Timo Schlieck,200000.0
+RB Leipzig,Oskar Preil,100000.0
+RB Leipzig,Mohamed Simakan,25000000.0
+RB Leipzig,Lukas Klostermann,12000000.0
+RB Leipzig,Willi Orbán,10000000.0
+RB Leipzig,Abdou Diallo,10000000.0
+RB Leipzig,Marcel Halstenberg,3500000.0
+RB Leipzig,Josko Gvardiol,75000000.0
+RB Leipzig,David Raum,14000000.0
+RB Leipzig,Benjamin Henrichs,15000000.0
+RB Leipzig,Hugo Novoa,4300000.0
+RB Leipzig,Sanoussy Ba,500000.0
+RB Leipzig,Dominik Szoboszlai,50000000.0
+RB Leipzig,Konrad Laimer,28000000.0
+RB Leipzig,Xaver Schlager,22000000.0
+RB Leipzig,Amadou Haidara,17000000.0
+RB Leipzig,Kevin Kampl,3500000.0
+RB Leipzig,Dani Olmo,40000000.0
+RB Leipzig,Caden Clark,2000000.0
+RB Leipzig,Timo Werner,25000000.0
+RB Leipzig,Emil Forsberg,7000000.0
+RB Leipzig,Christopher Nkunku,80000000.0
+RB Leipzig,André Silva,15000000.0
+RB Leipzig,Alexander Sørloth,12000000.0
+RB Leipzig,Yussuf Poulsen,7000000.0
+Bayer 04 Leverkusen,Lukas Hradecky,2500000.0
+Bayer 04 Leverkusen,Patrick Pentz,1500000.0
+Bayer 04 Leverkusen,Andrey Lunev,1200000.0
+Bayer 04 Leverkusen,Niklas Lomb,250000.0
+Bayer 04 Leverkusen,Maximilian Neutgens,0.0
+Bayer 04 Leverkusen,Piero Hincapié,35000000.0
+Bayer 04 Leverkusen,Edmond Tapsoba,30000000.0
+Bayer 04 Leverkusen,Jonathan Tah,20000000.0
+Bayer 04 Leverkusen,Odilon Kossounou,18000000.0
+Bayer 04 Leverkusen,Madi Monamay,0.0
+Bayer 04 Leverkusen,Mitchel Bakker,9000000.0
+Bayer 04 Leverkusen,Daley Sinkgraven,2500000.0
+Bayer 04 Leverkusen,Timothy Fosu-Mensah,2000000.0
+Bayer 04 Leverkusen,Robert Andrich,11000000.0
+Bayer 04 Leverkusen,Ayman Azhil,400000.0
+Bayer 04 Leverkusen,Joshua Eze,150000.0
+Bayer 04 Leverkusen,Leon Köhl,0.0
+Bayer 04 Leverkusen,Exequiel Palacios,22000000.0
+Bayer 04 Leverkusen,Kerem Demirbay,6000000.0
+Bayer 04 Leverkusen,Nadiem Amiri,6000000.0
+Bayer 04 Leverkusen,Charles Aránguiz,3500000.0
+Bayer 04 Leverkusen,Noah Mbamba,3000000.0
+Bayer 04 Leverkusen,Zidan Sertdemir,1000000.0
+Bayer 04 Leverkusen,Jeremie Frimpong,40000000.0
+Bayer 04 Leverkusen,Florian Wirtz,85000000.0
+Bayer 04 Leverkusen,Ayman Aourir,0.0
+Bayer 04 Leverkusen,Amine Adli,20000000.0
+Bayer 04 Leverkusen,Callum Hudson-Odoi,15000000.0
+Bayer 04 Leverkusen,Moussa Diaby,50000000.0
+Bayer 04 Leverkusen,Karim Bellarabi,1500000.0
+Bayer 04 Leverkusen,Adam Hlozek,18000000.0
+Bayer 04 Leverkusen,Paulinho,7500000.0
+Bayer 04 Leverkusen,Patrik Schick,25000000.0
+Bayer 04 Leverkusen,Sardar Azmoun,12000000.0
+Bayer 04 Leverkusen,Joel Pohjanpalo,3500000.0
+Eintracht Frankfurt,Kevin Trapp,8500000.0
+Eintracht Frankfurt,Diant Ramaj,750000.0
+Eintracht Frankfurt,Jannik Horz,200000.0
+Eintracht Frankfurt,Jens Grahl,200000.0
+Eintracht Frankfurt,Simon Simoni,200000.0
+Eintracht Frankfurt,Evan Ndicka,28000000.0
+Eintracht Frankfurt,Tuta,15000000.0
+Eintracht Frankfurt,Hrvoje Smolcic,4000000.0
+Eintracht Frankfurt,Almamy Touré,2500000.0
+Eintracht Frankfurt,Jérôme Onguéné,2000000.0
+Eintracht Frankfurt,Dario Gebuhr,400000.0
+Eintracht Frankfurt,Filip Kostić,22000000.0
+Eintracht Frankfurt,Luca Pellegrini,7000000.0
+Eintracht Frankfurt,Philipp Max,3000000.0
+Eintracht Frankfurt,Christopher Lenz,2500000.0
+Eintracht Frankfurt,Jan Schröder,200000.0
+Eintracht Frankfurt,Aurélio Buta,8000000.0
+Eintracht Frankfurt,Timothy Chandler,700000.0
+Eintracht Frankfurt,Kristijan Jakic,7000000.0
+Eintracht Frankfurt,Makoto Hasebe,800000.0
+Eintracht Frankfurt,Djibril Sow,22000000.0
+Eintracht Frankfurt,Paxten Aaronson,4500000.0
+Eintracht Frankfurt,Sebastian Rode,2000000.0
+Eintracht Frankfurt,Mehdi Loune,300000.0
+Eintracht Frankfurt,Junior Dina Ebimbe,10000000.0
+Eintracht Frankfurt,Daichi Kamada,27000000.0
+Eintracht Frankfurt,Mario Götze,12000000.0
+Eintracht Frankfurt,Marcel Wenig,800000.0
+Eintracht Frankfurt,Jens Petter Hauge,2500000.0
+Eintracht Frankfurt,Faride Alidou,2500000.0
+Eintracht Frankfurt,Jesper Lindstrøm,28000000.0
+Eintracht Frankfurt,Ansgar Knauff,8000000.0
+Eintracht Frankfurt,Randal Kolo Muani,80000000.0
+Eintracht Frankfurt,Rafael Borré,9000000.0
+Eintracht Frankfurt,Lucas Alario,2500000.0
+Eintracht Frankfurt,Nacho Ferri,500000.0
+Borussia Mönchengladbach,Jonas Omlin,9000000.0
+Borussia Mönchengladbach,Yann Sommer,5000000.0
+Borussia Mönchengladbach,Jan Olschowsky,800000.0
+Borussia Mönchengladbach,Tobias Sippel,400000.0
+Borussia Mönchengladbach,Moritz Nicolas,350000.0
+Borussia Mönchengladbach,Florian Dimmer,100000.0
+Borussia Mönchengladbach,Maximilian Brüll,75000.0
+Borussia Mönchengladbach,Nico Elvedi,18000000.0
+Borussia Mönchengladbach,Jordan Beyer,16000000.0
+Borussia Mönchengladbach,Ko Itakura,12000000.0
+Borussia Mönchengladbach,Marvin Friedrich,4000000.0
+Borussia Mönchengladbach,Mamadou Doucouré,100000.0
+Borussia Mönchengladbach,Ramy Bensebaini,20000000.0
+Borussia Mönchengladbach,Luca Netz,6500000.0
+Borussia Mönchengladbach,Joe Scally,12000000.0
+Borussia Mönchengladbach,Stefan Lainer,3000000.0
+Borussia Mönchengladbach,Tony Jantschke,600000.0
+Borussia Mönchengladbach,Simon Walde,500000.0
+Borussia Mönchengladbach,Julian Weigl,10000000.0
+Borussia Mönchengladbach,Christoph Kramer,2500000.0
+Borussia Mönchengladbach,Manu Koné,40000000.0
+Borussia Mönchengladbach,Florian Neuhaus,12000000.0
+Borussia Mönchengladbach,Oscar Fraulo,2000000.0
+Borussia Mönchengladbach,Rocco Reitz,800000.0
+Borussia Mönchengladbach,Torben Müsel,200000.0
+Borussia Mönchengladbach,Jonas Hofmann,13000000.0
+Borussia Mönchengladbach,Lars Stindl,1000000.0
+Borussia Mönchengladbach,Conor Noß,400000.0
+Borussia Mönchengladbach,Yvandro Borges Sanches,1500000.0
+Borussia Mönchengladbach,Nathan Ngoumou,5000000.0
+Borussia Mönchengladbach,Hannes Wolf,3000000.0
+Borussia Mönchengladbach,Patrick Herrmann,1500000.0
+Borussia Mönchengladbach,Marcus Thuram,32000000.0
+Borussia Mönchengladbach,Alassane Pléa,8000000.0
+Borussia Mönchengladbach,Semir Telalovic,350000.0
+VfL Wolfsburg,Koen Casteels,8000000.0
+VfL Wolfsburg,Pavao Pervan,400000.0
+VfL Wolfsburg,Philipp Schulze,200000.0
+VfL Wolfsburg,Niklas Klinger,100000.0
+VfL Wolfsburg,Micky van de Ven,30000000.0
+VfL Wolfsburg,Maxence Lacroix,17000000.0
+VfL Wolfsburg,Sebastiaan Bornauw,8500000.0
+VfL Wolfsburg,David Odogu,0.0
+VfL Wolfsburg,Paulo Otávio,4000000.0
+VfL Wolfsburg,Nicolas Cozza,3500000.0
+VfL Wolfsburg,Jérôme Roussillon,3000000.0
+VfL Wolfsburg,Ridle Baku,13000000.0
+VfL Wolfsburg,Kilian Fischer,2000000.0
+VfL Wolfsburg,Bartol Franjic,3000000.0
+VfL Wolfsburg,Josuha Guilavogui,2000000.0
+VfL Wolfsburg,Mattias Svanberg,18000000.0
+VfL Wolfsburg,Felix Nmecha,15000000.0
+VfL Wolfsburg,Maximilian Arnold,14000000.0
+VfL Wolfsburg,Aster Vranckx,8500000.0
+VfL Wolfsburg,Yannick Gerhardt,6000000.0
+VfL Wolfsburg,Kevin Paredes,5000000.0
+VfL Wolfsburg,Lukas Ambros,200000.0
+VfL Wolfsburg,Jakub Kaminski,12000000.0
+VfL Wolfsburg,Josip Brekalo,5000000.0
+VfL Wolfsburg,Patrick Wimmer,18000000.0
+VfL Wolfsburg,Maximilian Philipp,2000000.0
+VfL Wolfsburg,Max Kruse,900000.0
+VfL Wolfsburg,Jonas Wind,14000000.0
+VfL Wolfsburg,Lukas Nmecha,12000000.0
+VfL Wolfsburg,Omar Marmoush,6000000.0
+VfL Wolfsburg,Bartosz Bialek,3000000.0
+VfL Wolfsburg,Luca Waldschmidt,3000000.0
+VfL Wolfsburg,Dzenan Pejcinovic,1000000.0
+SC Freiburg,Mark Flekken,10000000.0
+SC Freiburg,Noah Atubolu,3500000.0
+SC Freiburg,Benjamin Uphoff,500000.0
+SC Freiburg,Philipp Lienhart,20000000.0
+SC Freiburg,Matthias Ginter,18000000.0
+SC Freiburg,Keven Schlotterbeck,3000000.0
+SC Freiburg,Kenneth Schmidt,3000000.0
+SC Freiburg,Manuel Gulde,1500000.0
+SC Freiburg,Christian Günter,7500000.0
+SC Freiburg,Kimberly Ezekwem,350000.0
+SC Freiburg,Kiliann Sildillia,12000000.0
+SC Freiburg,Hugo Siquet,3300000.0
+SC Freiburg,Lukas Kübler,2500000.0
+SC Freiburg,Yannik Keitel,4000000.0
+SC Freiburg,Nicolas Höfler,2500000.0
+SC Freiburg,Maximilian Eggestein,10000000.0
+SC Freiburg,Robert Wagner,1400000.0
+SC Freiburg,Jonathan Schmid,900000.0
+SC Freiburg,Daniel-Kofi Kyereh,8000000.0
+SC Freiburg,Woo-yeong Jeong,3500000.0
+SC Freiburg,Merlin Röhl,2000000.0
+SC Freiburg,Kevin Schade,25000000.0
+SC Freiburg,Vincenzo Grifo,12000000.0
+SC Freiburg,Noah Weißhaupt,4000000.0
+SC Freiburg,Ritsu Doan,18000000.0
+SC Freiburg,Roland Sallai,10000000.0
+SC Freiburg,Michael Gregoritsch,8000000.0
+SC Freiburg,Lucas Höler,5000000.0
+SC Freiburg,Nils Petersen,1500000.0
+TSG 1899 Hoffenheim,Oliver Baumann,4000000.0
+TSG 1899 Hoffenheim,Philipp Pentke,300000.0
+TSG 1899 Hoffenheim,Luca Philipp,300000.0
+TSG 1899 Hoffenheim,Nahuel Noll,250000.0
+TSG 1899 Hoffenheim,Ozan Kabak,10000000.0
+TSG 1899 Hoffenheim,Stanley Nsoki,5500000.0
+TSG 1899 Hoffenheim,Kevin Akpoguma,3500000.0
+TSG 1899 Hoffenheim,Kevin Vogt,2500000.0
+TSG 1899 Hoffenheim,Eduardo Quaresma,2500000.0
+TSG 1899 Hoffenheim,John Brooks,2000000.0
+TSG 1899 Hoffenheim,Ermin Bicakcic,700000.0
+TSG 1899 Hoffenheim,Joshua Quarshie,250000.0
+TSG 1899 Hoffenheim,Benjamin Hübner,0.0
+TSG 1899 Hoffenheim,Angeliño,12000000.0
+TSG 1899 Hoffenheim,Stefan Posch,14000000.0
+TSG 1899 Hoffenheim,Pavel Kaderabek,3000000.0
+TSG 1899 Hoffenheim,Justin Che,1500000.0
+TSG 1899 Hoffenheim,Diadié Samassékou,7000000.0
+TSG 1899 Hoffenheim,Angelo Stiller,5000000.0
+TSG 1899 Hoffenheim,Sebastian Rudy,1000000.0
+TSG 1899 Hoffenheim,Melayro Bogarde,700000.0
+TSG 1899 Hoffenheim,Dennis Geiger,8000000.0
+TSG 1899 Hoffenheim,Grischa Prömel,7000000.0
+TSG 1899 Hoffenheim,Tom Bischof,3500000.0
+TSG 1899 Hoffenheim,Finn Becker,2500000.0
+TSG 1899 Hoffenheim,Thomas Delaney,2000000.0
+TSG 1899 Hoffenheim,Umut Tohumcu,1500000.0
+TSG 1899 Hoffenheim,Robert Skov,6500000.0
+TSG 1899 Hoffenheim,Christoph Baumgartner,24000000.0
+TSG 1899 Hoffenheim,Muhammed Damar,1000000.0
+TSG 1899 Hoffenheim,Jacob Bruun Larsen,3000000.0
+TSG 1899 Hoffenheim,Georginio Rutter,18000000.0
+TSG 1899 Hoffenheim,Andrej Kramaric,8000000.0
+TSG 1899 Hoffenheim,Ihlas Bebou,7000000.0
+TSG 1899 Hoffenheim,Kasper Dolberg,7000000.0
+TSG 1899 Hoffenheim,Munas Dabbur,3000000.0
+TSG 1899 Hoffenheim,Fisnik Asllani,800000.0
+1.FC Union Berlin,Frederik Rönnow,5500000.0
+1.FC Union Berlin,Lennart Grill,1000000.0
+1.FC Union Berlin,Jakob Busk,250000.0
+1.FC Union Berlin,Yannic Stein,200000.0
+1.FC Union Berlin,Danilho Doekhi,17000000.0
+1.FC Union Berlin,Diogo Leite,15000000.0
+1.FC Union Berlin,Paul Jaeckel,5000000.0
+1.FC Union Berlin,Robin Knoche,5000000.0
+1.FC Union Berlin,Timo Baumgartl,3000000.0
+1.FC Union Berlin,Dominique Heintz,1200000.0
+1.FC Union Berlin,Jérôme Roussillon,3000000.0
+1.FC Union Berlin,Tymoteusz Puchacz,1200000.0
+1.FC Union Berlin,Niko Gießelmann,1000000.0
+1.FC Union Berlin,Julian Ryerson,13000000.0
+1.FC Union Berlin,Josip Juranovic,12000000.0
+1.FC Union Berlin,Christopher Trimmel,800000.0
+1.FC Union Berlin,Rani Khedira,10000000.0
+1.FC Union Berlin,Aljoscha Kemlein,250000.0
+1.FC Union Berlin,Janik Haberer,7000000.0
+1.FC Union Berlin,Aïssa Laïdouni,7000000.0
+1.FC Union Berlin,Morten Thorsby,5500000.0
+1.FC Union Berlin,András Schäfer,5000000.0
+1.FC Union Berlin,Paul Seguin,2500000.0
+1.FC Union Berlin,Kevin Möhwald,600000.0
+1.FC Union Berlin,Milos Pantovic,1500000.0
+1.FC Union Berlin,Genki Haraguchi,1000000.0
+1.FC Union Berlin,Sheraldo Becker,17000000.0
+1.FC Union Berlin,Levin Öztunali,1200000.0
+1.FC Union Berlin,Sven Michel,900000.0
+1.FC Union Berlin,Jamie Leweling,3000000.0
+1.FC Union Berlin,Tim Skarke,1200000.0
+1.FC Union Berlin,Tim Maciejewski,350000.0
+1.FC Union Berlin,Jordan,7000000.0
+1.FC Union Berlin,Kevin Behrens,2000000.0
+1.FC Union Berlin,Andreas Voglsammer,800000.0
+1.FC Union Berlin,Malick Sanogo,0.0
+VfB Stuttgart,Florian Müller,1500000.0
+VfB Stuttgart,Fabian Bredlow,1500000.0
+VfB Stuttgart,Dennis Seimen,200000.0
+VfB Stuttgart,Florian Schock,200000.0
+VfB Stuttgart,Nicolas Glaus,125000.0
+VfB Stuttgart,Konstantinos Mavropanos,15000000.0
+VfB Stuttgart,Hiroki Ito,10000000.0
+VfB Stuttgart,Waldemar Anton,4500000.0
+VfB Stuttgart,Dan-Axel Zagadou,2500000.0
+VfB Stuttgart,Clinton Mola,500000.0
+VfB Stuttgart,Leon Reichardt,0.0
+VfB Stuttgart,Josha Vagnoman,8000000.0
+VfB Stuttgart,Pascal Stenzel,1500000.0
+VfB Stuttgart,Antonis Aidonis,350000.0
+VfB Stuttgart,Mattis Hoppe,150000.0
+VfB Stuttgart,Wataru Endo,6500000.0
+VfB Stuttgart,Atakan Karazor,4000000.0
+VfB Stuttgart,Luca Bazzoli,225000.0
+VfB Stuttgart,Naouirou Ahamada,10000000.0
+VfB Stuttgart,Nikolas Nartey,1500000.0
+VfB Stuttgart,Borna Sosa,12000000.0
+VfB Stuttgart,Enzo Millot,7000000.0
+VfB Stuttgart,Lilian Egloff,1500000.0
+VfB Stuttgart,Mateo Klimowicz,1200000.0
+VfB Stuttgart,Genki Haraguchi,1000000.0
+VfB Stuttgart,Ömer Beyaz,700000.0
+VfB Stuttgart,Laurin Ulrich,500000.0
+VfB Stuttgart,Chris Führich,4000000.0
+VfB Stuttgart,Darko Churlinov,2200000.0
+VfB Stuttgart,Silas,8000000.0
+VfB Stuttgart,Tanguy Coulibaly,2500000.0
+VfB Stuttgart,Gil Dias,1500000.0
+VfB Stuttgart,Sasa Kalajdzic,15000000.0
+VfB Stuttgart,Serhou Guirassy,14000000.0
+VfB Stuttgart,Tiago Tomás,7000000.0
+VfB Stuttgart,Juan José Perea,2000000.0
+VfB Stuttgart,Luca Pfeiffer,1700000.0
+VfB Stuttgart,Thomas Kastanaras,700000.0
+VfB Stuttgart,Alou Kuol,300000.0
+1.FSV Mainz 05,Robin Zentner,5000000.0
+1.FSV Mainz 05,Finn Dahmen,2500000.0
+1.FSV Mainz 05,Lasse Rieß,200000.0
+1.FSV Mainz 05,Andreas Hanche-Olsen,7500000.0
+1.FSV Mainz 05,Alexander Hack,2500000.0
+1.FSV Mainz 05,Maxim Leitsch,2000000.0
+1.FSV Mainz 05,Stefan Bell,2000000.0
+1.FSV Mainz 05,Danny da Costa,1800000.0
+1.FSV Mainz 05,Philipp Schulz,300000.0
+1.FSV Mainz 05,Lucas Laux,175000.0
+1.FSV Mainz 05,Aarón Martín,7000000.0
+1.FSV Mainz 05,Anderson Lucoqui,600000.0
+1.FSV Mainz 05,Silvan Widmer,3500000.0
+1.FSV Mainz 05,Anton Stach,15000000.0
+1.FSV Mainz 05,Edimilson Fernandes,5500000.0
+1.FSV Mainz 05,Dominik Kohr,3500000.0
+1.FSV Mainz 05,Niklas Tauer,1200000.0
+1.FSV Mainz 05,Leandro Barreiro,14000000.0
+1.FSV Mainz 05,Merveille Papela,1000000.0
+1.FSV Mainz 05,Eniss Shabani,200000.0
+1.FSV Mainz 05,Anthony Caci,8500000.0
+1.FSV Mainz 05,Angelo Fulgini,9000000.0
+1.FSV Mainz 05,Jae-sung Lee,4000000.0
+1.FSV Mainz 05,Aymen Barkok,2000000.0
+1.FSV Mainz 05,Delano Burgzorg,1500000.0
+1.FSV Mainz 05,Kaito Mizuta,225000.0
+1.FSV Mainz 05,Brajan Gruda,500000.0
+1.FSV Mainz 05,Jonathan Burkardt,10000000.0
+1.FSV Mainz 05,Ludovic Ajorque,9000000.0
+1.FSV Mainz 05,Marcus Ingvartsen,5500000.0
+1.FSV Mainz 05,Nelson Weiper,5000000.0
+1.FSV Mainz 05,Karim Onisiwo,3500000.0
+1.FSV Mainz 05,Marlon Mustapha,1000000.0
+1.FSV Mainz 05,Ben Bobzien,600000.0
+FC Augsburg,Tomas Koubek,1000000.0
+FC Augsburg,Rafal Gikiewicz,900000.0
+FC Augsburg,Daniel Klein,300000.0
+FC Augsburg,Benjamin Leneis,100000.0
+FC Augsburg,Felix Uduokhai,8500000.0
+FC Augsburg,Reece Oxford,5500000.0
+FC Augsburg,Maximilian Bauer,3500000.0
+FC Augsburg,Jeffrey Gouweleeuw,3000000.0
+FC Augsburg,Frederik Winther,1000000.0
+FC Augsburg,Renato Veiga,1000000.0
+FC Augsburg,Felix Götze,400000.0
+FC Augsburg,Daniel Katic,125000.0
+FC Augsburg,Iago,5500000.0
+FC Augsburg,Mads Pedersen,3500000.0
+FC Augsburg,David Colina,1500000.0
+FC Augsburg,Robert Gumny,3500000.0
+FC Augsburg,Raphael Framberger,800000.0
+FC Augsburg,Niklas Dorsch,7000000.0
+FC Augsburg,Carlos Gruezo,3000000.0
+FC Augsburg,Tobias Strobl,500000.0
+FC Augsburg,Julian Baumgartlinger,400000.0
+FC Augsburg,Arne Engels,7500000.0
+FC Augsburg,Arne Maier,6500000.0
+FC Augsburg,Elvis Rexhbecaj,3500000.0
+FC Augsburg,Aaron Zehnter,300000.0
+FC Augsburg,Fredrik Jensen,2500000.0
+FC Augsburg,Josué Mbila,100000.0
+FC Augsburg,Mert Kömür,0.0
+FC Augsburg,Rubén Vargas,6500000.0
+FC Augsburg,Nathanaël Mbuku,3000000.0
+FC Augsburg,André Hahn,1200000.0
+FC Augsburg,Lukas Petkov,800000.0
+FC Augsburg,Noah Sarenren Bazee,600000.0
+FC Augsburg,Daniel Caligiuri,600000.0
+FC Augsburg,Ermedin Demirovic,12000000.0
+FC Augsburg,Mergim Berisha,12000000.0
+FC Augsburg,Ricardo Pepi,9000000.0
+FC Augsburg,Dion Beljo,6500000.0
+FC Augsburg,Kelvin Yeboah,3500000.0
+FC Augsburg,Irvin Cardona,2500000.0
+FC Augsburg,Maurice Malone,1800000.0
+FC Augsburg,Florian Niederlechner,800000.0
+1.FC Köln,Marvin Schwäbe,7000000.0
+1.FC Köln,Jonas Urbig,1500000.0
+1.FC Köln,Timo Horn,1500000.0
+1.FC Köln,Julian Roloff,100000.0
+1.FC Köln,Matthias Köbbing,100000.0
+1.FC Köln,Timo Hübers,8500000.0
+1.FC Köln,Jeff Chabot,5500000.0
+1.FC Köln,Luca Kilian,3500000.0
+1.FC Köln,Nikola Soldo,1500000.0
+1.FC Köln,Elias Bakatukanda,250000.0
+1.FC Köln,Rijad Smajic,150000.0
+1.FC Köln,Jonas Hector,3500000.0
+1.FC Köln,Kristian Pedersen,1200000.0
+1.FC Köln,Jan Thielmann,6500000.0
+1.FC Köln,Benno Schmitz,3000000.0
+1.FC Köln,Kingsley Ehizibue,2500000.0
+1.FC Köln,Ellyes Skhiri,13000000.0
+1.FC Köln,Dejan Ljubicic,10000000.0
+1.FC Köln,Eric Martel,9000000.0
+1.FC Köln,Georg Strauch,200000.0
+1.FC Köln,Denis Huseinbasic,5000000.0
+1.FC Köln,Ondrej Duda,3400000.0
+1.FC Köln,Mathias Olesen,1200000.0
+1.FC Köln,Florian Kainz,5000000.0
+1.FC Köln,Joshua Schwirten,200000.0
+1.FC Köln,Linton Maina,6000000.0
+1.FC Köln,Justin Diehl,500000.0
+1.FC Köln,Dimitrios Limnios,2000000.0
+1.FC Köln,Kingsley Schindler,1000000.0
+1.FC Köln,Steffen Tigges,3500000.0
+1.FC Köln,Davie Selke,2500000.0
+1.FC Köln,Mark Uth,1500000.0
+1.FC Köln,Tim Lemperle,1500000.0
+1.FC Köln,Sargis Adamyan,1000000.0
+1.FC Köln,Florian Dietz,1000000.0
+1.FC Köln,Anthony Modeste,700000.0
+1.FC Köln,Sebastian Andersson,700000.0
+1.FC Köln,Damion Downs,250000.0
+1.FC Köln,Maximilian Schmid,200000.0
+Hertha BSC,Oliver Christensen,4000000.0
+Hertha BSC,Tjark Ernst,400000.0
+Hertha BSC,Rune Jarstein,300000.0
+Hertha BSC,Robert Kwasigroch,200000.0
+Hertha BSC,Marc Oliver Kempf,3500000.0
+Hertha BSC,Márton Dárdai,3500000.0
+Hertha BSC,Linus Gechter,2500000.0
+Hertha BSC,Filip Uremovic,2000000.0
+Hertha BSC,Agustín Rogel,1500000.0
+Hertha BSC,Dedryck Boyata,1000000.0
+Hertha BSC,Joel Da Silva Kiala,250000.0
+Hertha BSC,Maximilian Mittelstädt,2000000.0
+Hertha BSC,Marvin Plattenhardt,1000000.0
+Hertha BSC,Lukas Ullrich,750000.0
+Hertha BSC,Jonjoe Kenny,3000000.0
+Hertha BSC,Deyovaisio Zeefuik,1200000.0
+Hertha BSC,Peter Pekarík,500000.0
+Hertha BSC,Julian Eitschberger,350000.0
+Hertha BSC,Lucas Tousart,9000000.0
+Hertha BSC,Ivan Sunjic,1500000.0
+Hertha BSC,Tolga Ciğerci,700000.0
+Hertha BSC,Pascal Klemens,300000.0
+Hertha BSC,Veit Stange,250000.0
+Hertha BSC,Suat Serdar,4500000.0
+Hertha BSC,Vladimír Darida,1500000.0
+Hertha BSC,Marco Richter,5000000.0
+Hertha BSC,Jean-Paul Boëtius,1500000.0
+Hertha BSC,Kevin-Prince Boateng,700000.0
+Hertha BSC,Ibrahim Maza,600000.0
+Hertha BSC,Tony Rölke,200000.0
+Hertha BSC,Chidera Ejuke,5500000.0
+Hertha BSC,Myziane Maolida,1500000.0
+Hertha BSC,Kelian Nsona,800000.0
+Hertha BSC,Derry Scherhant,700000.0
+Hertha BSC,Dodi Lukébakio,12000000.0
+Hertha BSC,Stevan Jovetić,1500000.0
+Hertha BSC,Krzysztof Piatek,7000000.0
+Hertha BSC,Jessic Ngankam,5000000.0
+Hertha BSC,Wilfried Kanga,3000000.0
+Hertha BSC,Davie Selke,2500000.0
+Hertha BSC,Florian Niederlechner,800000.0
+SV Werder Bremen,Jiri Pavlenka,3000000.0
+SV Werder Bremen,Michael Zetterer,500000.0
+SV Werder Bremen,Mio Backhaus,300000.0
+SV Werder Bremen,Dudu,200000.0
+SV Werder Bremen,Louis Lord,150000.0
+SV Werder Bremen,Marco Friedl,7000000.0
+SV Werder Bremen,Amos Pieper,6000000.0
+SV Werder Bremen,Niklas Stark,5500000.0
+SV Werder Bremen,Milos Veljkovic,5500000.0
+SV Werder Bremen,Anthony Jung,1500000.0
+SV Werder Bremen,Fabio Chiarodia,1000000.0
+SV Werder Bremen,Tim-Justin Dietrich,200000.0
+SV Werder Bremen,Lee Buchanan,3500000.0
+SV Werder Bremen,Felix Agu,1000000.0
+SV Werder Bremen,Mitchell Weiser,6000000.0
+SV Werder Bremen,Jean Manuel Mbom,800000.0
+SV Werder Bremen,Ilia Gruev,3000000.0
+SV Werder Bremen,Nicolai Rapp,700000.0
+SV Werder Bremen,Christian Groß,500000.0
+SV Werder Bremen,Tom Berger,200000.0
+SV Werder Bremen,Jens Stage,5000000.0
+SV Werder Bremen,Leonardo Bittencourt,2800000.0
+SV Werder Bremen,Niklas Schmidt,2500000.0
+SV Werder Bremen,Dikeni Salifou,200000.0
+SV Werder Bremen,Romano Schmid,4500000.0
+SV Werder Bremen,Leon Opitz,0.0
+SV Werder Bremen,Oliver Burke,2500000.0
+SV Werder Bremen,Eren Dinkçi,1000000.0
+SV Werder Bremen,Benjamin Goller,450000.0
+SV Werder Bremen,Maximilian Philipp,2000000.0
+SV Werder Bremen,Nick Woltemade,1500000.0
+SV Werder Bremen,Niclas Füllkrug,13000000.0
+SV Werder Bremen,Marvin Ducksch,7500000.0
+FC Schalke 04,Alexander Schwolow,900000.0
+FC Schalke 04,Ralf Fährmann,400000.0
+FC Schalke 04,Justin Heekeren,250000.0
+FC Schalke 04,Michael Langer,50000.0
+FC Schalke 04,Malick Thiaw,20000000.0
+FC Schalke 04,Moritz Jenz,7500000.0
+FC Schalke 04,Sepp van den Berg,5000000.0
+FC Schalke 04,Leo Greiml,1200000.0
+FC Schalke 04,Henning Matriciani,1200000.0
+FC Schalke 04,Maya Yoshida,900000.0
+FC Schalke 04,Marcin Kaminski,700000.0
+FC Schalke 04,Timothée Kolodziejczak,400000.0
+FC Schalke 04,Ibrahima Cissé,200000.0
+FC Schalke 04,Julius Schell,125000.0
+FC Schalke 04,Thomas Ouwejan,2000000.0
+FC Schalke 04,Jere Uronen,1000000.0
+FC Schalke 04,Kerim Calhanoglu,800000.0
+FC Schalke 04,Joey Müller,175000.0
+FC Schalke 04,Cédric Brunner,1800000.0
+FC Schalke 04,Éder Balanta,2000000.0
+FC Schalke 04,Florian Flick,1500000.0
+FC Schalke 04,Niklas Tauer,1200000.0
+FC Schalke 04,Tom Krauß,7000000.0
+FC Schalke 04,Alex Král,7000000.0
+FC Schalke 04,Rodrigo Zalazar,4000000.0
+FC Schalke 04,Danny Latza,500000.0
+FC Schalke 04,Nassim Boujellab,400000.0
+FC Schalke 04,Mehmet Aydın,1500000.0
+FC Schalke 04,Tobias Mohr,1200000.0
+FC Schalke 04,Florent Mollet,2000000.0
+FC Schalke 04,Dominick Drexler,750000.0
+FC Schalke 04,Blendi Idrizi,400000.0
+FC Schalke 04,Marius Bülter,3000000.0
+FC Schalke 04,Soichiro Kozuki,600000.0
+FC Schalke 04,Andreas Ivan,125000.0
+FC Schalke 04,Tim Skarke,1200000.0
+FC Schalke 04,Sidi Sané,200000.0
+FC Schalke 04,Jordan Larsson,3000000.0
+FC Schalke 04,Michael Frey,2000000.0
+FC Schalke 04,Kenan Karaman,1400000.0
+FC Schalke 04,Simon Terodde,900000.0
+FC Schalke 04,Sebastian Polter,800000.0
+FC Schalke 04,Keke Topp,500000.0
+VfL Bochum,Manuel Riemann,1000000.0
+VfL Bochum,Marko Johansson,400000.0
+VfL Bochum,Michael Esser,300000.0
+VfL Bochum,Paul Grave,100000.0
+VfL Bochum,Erhan Masovic,8000000.0
+VfL Bochum,Ivan Ordets,3000000.0
+VfL Bochum,Keven Schlotterbeck,3000000.0
+VfL Bochum,Jannes Horn,1200000.0
+VfL Bochum,Dominique Heintz,1200000.0
+VfL Bochum,Tim Oermann,800000.0
+VfL Bochum,Vasilios Lampropoulos,500000.0
+VfL Bochum,Mohammed Tolba,200000.0
+VfL Bochum,Danilo Soares,1800000.0
+VfL Bochum,Konstantinos Stafylidis,1200000.0
+VfL Bochum,Jordi Osei-Tutu,1200000.0
+VfL Bochum,Saidy Janko,1000000.0
+VfL Bochum,Cristian Gamboa,600000.0
+VfL Bochum,Jacek Goralski,700000.0
+VfL Bochum,Anthony Losilla,500000.0
+VfL Bochum,Patrick Osterhage,4000000.0
+VfL Bochum,Pierre Kunde,1700000.0
+VfL Bochum,Kevin Stöger,3000000.0
+VfL Bochum,Philipp Förster,2800000.0
+VfL Bochum,Gerrit Holtmann,2500000.0
+VfL Bochum,Christopher Antwi-Adjei,2200000.0
+VfL Bochum,Takuma Asano,4000000.0
+VfL Bochum,Tarsis Bonga,300000.0
+VfL Bochum,Philipp Hofmann,2800000.0
+VfL Bochum,Simon Zoller,1100000.0
+VfL Bochum,Lys Mousset,1000000.0
+VfL Bochum,Moritz Broschinski,1000000.0
+VfL Bochum,Silvere Ganvoula,600000.0

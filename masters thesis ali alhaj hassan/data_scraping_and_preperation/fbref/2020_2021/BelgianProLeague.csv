@@ -1,0 +1,255 @@
+Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,Non-Penalty Goals + Assists/90
+Emmanuel Agbadou,ci CIV,"DF,MF",Eupen,23,1997,23,23,"1,984",22.0,1,0,1,1,0,0,4,2,0.05,0.00,0.05,0.05,0.05
+Saad Agouzoul,ma MAR,DF,Excel Mouscron,22,1997,33,33,"2,970",33.0,1,1,2,1,0,0,8,0,0.03,0.03,0.06,0.03,0.06
+Reda Akbib,be BEL,DF,Charleroi,19,2001,1,0,4,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alessandro Albanese,be BEL,"MF,FW",Waasland-Bev,20,2000,23,16,"1,240",13.8,1,6,7,1,0,0,5,0,0.07,0.44,0.51,0.07,0.51
+Arthur Allemeersch,be BEL,FW,OH Leuven,19,2001,2,1,67,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Selim Amallah,ma MAR,"MF,FW",Standard Liège,23,1996,24,21,"1,845",20.5,9,3,12,7,2,2,7,1,0.44,0.15,0.59,0.34,0.49
+Francis Amuzu,be BEL,"MF,FW",Anderlecht,20,1999,29,17,"1,754",19.5,2,3,5,2,0,0,2,0,0.10,0.15,0.26,0.10,0.26
+Panos Armenakas,au AUS,MF,Zulte Waregem,21,1998,9,2,207,2.3,2,0,2,2,0,0,0,0,0.87,0.00,0.87,0.87,0.87
+Kristian Arnstad,no NOR,MF,Anderlecht,16,2003,2,1,117,1.3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Gerardo Arteaga,mx MEX,"DF,MF",Genk,21,1998,19,15,"1,366",15.2,1,4,5,1,0,0,2,0,0.07,0.26,0.33,0.07,0.33
+Isaac Asante,gh GHA,MF,OH Leuven,17,2002,5,3,196,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Majeed Ashimeru,gh GHA,MF,Anderlecht,22,1997,5,5,323,3.6,1,0,1,1,0,0,0,0,0.28,0.00,0.28,0.28,0.28
+Marciano Aziz,be BEL,MF,Eupen,19,2001,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Muhammed Badamosi,gm GAM,FW,Kortrijk,21,1998,10,0,197,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Youssouph Badji,sn SEN,FW,Club Brugge,18,2001,24,11,944,10.5,4,1,5,4,0,0,1,0,0.38,0.10,0.48,0.38,0.48
+Michel-Ange Balikwisha,be BEL,"MF,FW",Standard Liège,19,2001,26,19,"1,623",18.0,7,2,9,7,0,0,1,0,0.39,0.11,0.50,0.39,0.50
+William Balikwisha,cd COD,MF,Standard Liège,21,1999,2,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Nelson Balongo,,FW,Sint-Truiden,21,1999,7,0,75,0.8,1,0,1,1,0,0,0,0,1.20,0.00,1.20,1.20,1.20
+Eike Bansen,de GER,GK,Zulte Waregem,22,1998,6,6,540,6.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Samuel Bastien,cd COD,MF,Standard Liège,23,1996,25,25,"2,143",23.8,4,1,5,4,0,0,2,0,0.17,0.04,0.21,0.17,0.21
+Jelle Bataille,be BEL,"MF,DF",Oostende,21,1999,31,29,"2,568",28.5,1,4,5,1,0,0,11,2,0.04,0.14,0.18,0.04,0.18
+David Bates,sct SCO,DF,Cercle Brugge,23,1996,19,19,"1,699",18.9,0,1,1,0,0,0,5,1,0.00,0.05,0.05,0.00,0.05
+Nick Bätzner,de GER,MF,Oostende,20,2000,19,10,881,9.8,0,1,1,0,0,0,1,0,0.00,0.10,0.10,0.00,0.10
+Amine Benchaib,ma MAR,MF,Charleroi,22,1998,17,7,774,8.6,1,1,2,1,0,0,3,0,0.12,0.12,0.23,0.12,0.23
+Giulian Biancone,fr FRA,"DF,MF",Cercle Brugge,20,2000,18,17,"1,550",17.2,1,0,1,1,0,0,5,0,0.06,0.00,0.06,0.06,0.06
+William Bianda,fr FRA,DF,Zulte Waregem,20,2000,7,6,486,5.4,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00
+Djihad Bizimana,rw RWA,MF,Waasland-Bev,23,1996,6,3,311,3.5,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Eric Bocat,fr FRA,"DF,MF",Excel Mouscron,21,1999,8,8,655,7.3,0,0,0,0,0,0,3,1,0.00,0.00,0.00,0.00,0.00
+Arnaud Bodart,be BEL,GK,Standard Liège,22,1998,33,33,"2,970",33.0,1,0,1,1,0,0,0,0,0.03,0.00,0.03,0.03,0.03
+Indy Boonen,be BEL,"FW,MF",Oostende,21,1999,10,2,271,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+George Broadbent,eng ENG,"DF,MF",Beerschot,19,2000,2,0,8,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jacob Bruun Larsen,dk DEN,"FW,MF",Anderlecht,21,1998,9,4,328,3.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Charles-Andréas Brym,ca CAN,FW,Excel Mouscron,21,1998,7,2,201,2.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Osman Bukari,gh GHA,"FW,MF",Gent,21,1998,25,18,"1,616",18.0,4,3,7,4,0,0,3,0,0.22,0.17,0.39,0.22,0.39
+Mustapha Bundu,sl SLE,MF,Anderlecht,23,1997,9,5,402,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Rocky Bushiri,be BEL,DF,Mechelen,20,1999,6,6,510,5.7,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Rocky Bushiri,be BEL,DF,Eupen,20,1999,1,1,72,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Maxime Busi,be BEL,DF,Charleroi,20,1999,7,7,630,7.0,0,1,1,0,0,0,3,0,0.00,0.14,0.14,0.00,0.14
+Aurélio Buta,pt POR,MF,Antwerp,23,1997,19,10,"1,059",11.8,0,3,3,0,0,0,7,0,0.00,0.25,0.25,0.00,0.25
+Liberato Cacace,nz NZL,"MF,DF",Sint-Truiden,19,2000,27,27,"2,422",26.9,0,2,2,0,0,0,5,0,0.00,0.07,0.07,0.00,0.07
+Capita,ao ANG,FW,Excel Mouscron,18,2002,3,0,51,0.6,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Joachim Carcela,be BEL,MF,Standard Liège,20,1999,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Arne Cassaert,be BEL,DF,Cercle Brugge,19,2000,2,1,91,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alessio Castro-Montes,be BEL,"MF,DF",Gent,23,1997,31,31,"2,624",29.2,6,1,7,6,0,2,4,0,0.21,0.03,0.24,0.21,0.24
+Maximiliano Caufriez,be BEL,DF,Waasland-Bev,23,1997,4,4,359,4.0,0,0,0,0,0,0,2,1,0.00,0.00,0.00,0.00,0.00
+Maximiliano Caufriez,be BEL,"DF,MF",Sint-Truiden,23,1997,19,18,"1,510",16.8,1,1,2,1,0,0,2,1,0.06,0.06,0.12,0.06,0.12
+Giorgi Chakvetadze,ge GEO,"MF,FW",Gent,20,1999,3,2,176,2.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Ismaila Cheick Coulibaly,ml MLI,MF,Beerschot,19,2000,22,17,"1,640",18.2,5,0,5,5,0,0,4,0,0.27,0.00,0.27,0.27,0.27
+Tahith Chong,nl NED,FW,Club Brugge,20,1999,7,5,391,4.3,0,2,2,0,0,0,0,0,0.00,0.46,0.46,0.00,0.46
+Jeremy Cijntje,cw CUW,"FW,MF",Waasland-Bev,22,1998,4,0,110,1.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Elias Cobbaut,be BEL,DF,Anderlecht,22,1997,8,7,612,6.8,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15
+Antoine Colassin,be BEL,FW,Anderlecht,19,2001,7,1,171,1.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Antoine Colassin,be BEL,"FW,MF",Zulte Waregem,19,2001,10,0,159,1.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Facundo Colidio,ar ARG,"MF,FW",Sint-Truiden,20,2000,31,17,"1,524",16.9,2,3,5,2,0,0,5,0,0.12,0.18,0.30,0.12,0.30
+Santiago Colombatto,ar ARG,MF,Sint-Truiden,23,1997,11,10,863,9.6,0,1,1,0,0,0,2,0,0.00,0.10,0.10,0.00,0.10
+Gaëtan Coucke,be BEL,GK,Mechelen,21,1998,16,16,"1,440",16.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Carlos Cuesta,co COL,DF,Genk,21,1999,30,30,"2,388",26.5,0,1,1,0,0,0,3,3,0.00,0.04,0.04,0.00,0.04
+Robbie D'Haese,be BEL,"MF,FW",Oostende,21,1999,22,15,"1,241",13.8,1,0,1,1,0,0,0,0,0.07,0.00,0.07,0.07,0.07
+Kouadio-Yves Dabila,ci CIV,DF,Excel Mouscron,23,1997,7,6,495,5.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Charles De Ketelaere,be BEL,"FW,MF",Club Brugge,19,2001,32,20,"2,001",22.2,3,4,7,3,0,0,0,0,0.13,0.18,0.31,0.13,0.31
+Alexis De Sart,be BEL,MF,Antwerp,23,1996,5,1,188,2.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Mathieu De Smet,be BEL,MF,Zulte Waregem,20,2000,8,3,281,3.1,1,3,4,1,0,0,0,0,0.32,0.96,1.28,0.32,1.28
+Ortwin De Wolf,be BEL,GK,Eupen,23,1997,12,12,"1,035",11.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ortwin De Wolf,be BEL,GK,Antwerp,23,1997,7,6,596,6.6,0,1,1,0,0,0,1,0,0.00,0.15,0.15,0.00,0.15
+Robbe Decostere,be BEL,"DF,MF",Cercle Brugge,22,1998,16,15,"1,315",14.6,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Calvin Dekuyper,be BEL,MF,Cercle Brugge,20,1999,2,0,38,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Hannes Delcroix,be BEL,DF,Anderlecht,21,1999,23,23,"2,014",22.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Olivier Deman,be BEL,"FW,MF",Cercle Brugge,20,2000,9,8,576,6.4,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Kévin Denkey,tg TOG,FW,Cercle Brugge,19,2000,13,1,201,2.2,2,0,2,2,0,0,0,0,0.90,0.00,0.90,0.90,0.90
+Emmanuel Dennis,ng NGA,"FW,MF",Club Brugge,22,1997,9,6,432,4.8,0,2,2,0,0,0,2,0,0.00,0.42,0.42,0.00,0.42
+Anthony Descotte,be BEL,FW,Charleroi,16,2003,1,0,15,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Aldom Deuro,ml MLI,MF,Cercle Brugge,19,2000,1,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Krépin Diatta,sn SEN,"FW,MF",Club Brugge,21,1999,19,17,"1,498",16.6,9,2,11,9,0,0,0,0,0.54,0.12,0.66,0.54,0.66
+Landry Dimata,be BEL,FW,Anderlecht,22,1997,14,4,373,4.1,2,1,3,1,1,1,2,0,0.48,0.24,0.72,0.24,0.48
+Jeremy Doku,be BEL,"MF,FW",Anderlecht,18,2002,7,7,605,6.7,2,3,5,2,0,0,1,0,0.30,0.45,0.74,0.30,0.74
+Niklas Dorsch,de GER,MF,Gent,22,1998,29,23,"2,075",23.1,3,1,4,2,1,2,6,0,0.13,0.04,0.17,0.09,0.13
+Ferdy Druijf,nl NED,FW,Mechelen,22,1998,14,5,528,5.9,3,0,3,2,1,1,2,0,0.51,0.00,0.51,0.34,0.34
+Chris Durkin,us USA,MF,Sint-Truiden,20,2000,28,20,"1,985",22.1,1,1,2,1,0,0,6,0,0.05,0.05,0.09,0.05,0.09
+Pierre Dwomoh,be BEL,MF,Genk,16,2004,2,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Joe Efford,us USA,"FW,MF",Waasland-Bev,23,1996,26,12,"1,175",13.1,2,4,6,2,0,0,1,0,0.15,0.31,0.46,0.15,0.46
+Imad Faraj,ma MAR,"MF,FW",Excel Mouscron,21,1999,27,11,"1,140",12.7,1,3,4,1,0,0,0,0,0.08,0.24,0.32,0.08,0.32
+Daam Foulon,be BEL,"DF,MF",Waasland-Bev,21,1999,1,0,18,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Brent Gabriël,be BEL,GK,Waasland-Bev,21,1999,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Alexis Gamboa,cr CRC,DF,Waasland-Bev,21,1999,8,7,664,7.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jérémy Gélin,fr FRA,DF,Antwerp,23,1997,11,10,817,9.1,0,1,1,0,0,0,1,1,0.00,0.11,0.11,0.00,0.11
+Anderson Gniangbo,ci CIV,"FW,MF",Gent,20,1999,18,11,861,9.6,1,0,1,1,0,0,0,0,0.10,0.00,0.10,0.10,0.10
+Alimani Gory,ml MLI,"FW,MF",Cercle Brugge,23,1996,2,0,33,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+El Hadji Arfang Gueye,sn SEN,DF,Excel Mouscron,20,1999,3,2,133,1.5,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00
+Makhtar Gueye,sn SEN,FW,Oostende,22,1997,31,27,"2,192",24.4,12,2,14,7,5,5,6,1,0.49,0.08,0.57,0.29,0.37
+Pape Habib Guèye,sn SEN,FW,Kortrijk,20,1999,31,21,"1,763",19.6,5,3,8,5,0,0,3,0,0.26,0.15,0.41,0.26,0.41
+Anouar Ait El Hadj,be BEL,"MF,FW",Anderlecht,18,2002,22,16,"1,406",15.6,3,0,3,3,0,0,2,0,0.19,0.00,0.19,0.19,0.19
+Luqman Hakim,my MAS,FW,Kortrijk,18,2002,1,0,17,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Réda Halaïmia,dz ALG,"MF,DF",Beerschot,23,1996,16,8,739,8.2,0,1,1,0,0,0,0,0,0.00,0.12,0.12,0.00,0.12
+Andreas Hanche-Olsen,no NOR,DF,Gent,23,1997,25,25,"2,185",24.3,1,0,1,1,0,0,2,0,0.04,0.00,0.04,0.04,0.04
+Daiki Hashioka,jp JPN,"DF,MF",Sint-Truiden,21,1999,6,5,477,5.3,0,3,3,0,0,0,1,0,0.00,0.57,0.57,0.00,0.57
+Daan Heymans,be BEL,"MF,FW",Waasland-Bev,21,1999,30,25,"2,139",23.8,8,5,13,8,0,0,4,0,0.34,0.21,0.55,0.34,0.55
+Bryan Heynen,be BEL,MF,Genk,23,1997,24,22,"1,918",21.3,2,4,6,2,0,0,5,0,0.09,0.19,0.28,0.09,0.28
+Martin Hongla,cm CMR,MF,Antwerp,22,1998,28,26,"2,263",25.1,3,2,5,3,0,0,8,0,0.12,0.08,0.20,0.12,0.20
+Cameron Humphreys,eng ENG,DF,Zulte Waregem,21,1998,26,25,"2,241",24.9,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Marko Ilić,rs SRB,GK,Kortrijk,22,1998,22,22,"1,980",22.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Tatsuya Ito,jp JPN,"FW,MF",Sint-Truiden,23,1997,7,0,128,1.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Daniel Iversen,dk DEN,GK,OH Leuven,23,1997,5,5,405,4.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Nordin Jackers,be BEL,GK,Waasland-Bev,22,1997,28,28,"2,520",28.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Frederik Jäkel,de GER,DF,Oostende,19,2001,11,10,886,9.8,0,0,0,0,0,0,5,1,0.00,0.00,0.00,0.00,0.00
+Adam Jakubech,sk SVK,GK,Kortrijk,23,1997,12,12,"1,080",12.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Denzhel Jubitana,sr SUR,MF,Waasland-Bev,21,1999,5,0,40,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Issa Kaboré,bf BFA,DF,Mechelen,19,2001,23,14,"1,377",15.3,0,3,3,0,0,0,7,1,0.00,0.20,0.20,0.00,0.20
+Nikos Kainourgios,gr GRE,"MF,FW",Zulte Waregem,21,1998,15,9,681,7.6,2,0,2,2,0,0,1,0,0.26,0.00,0.26,0.26,0.26
+Marco Kana,be BEL,"MF,DF",Anderlecht,17,2002,8,4,350,3.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Franck Kanouté,sn SEN,MF,Cercle Brugge,21,1998,16,13,"1,037",11.5,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09
+Edo Kayembe,cd COD,MF,Anderlecht,22,1998,2,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Edo Kayembe,cd COD,MF,Eupen,22,1998,23,19,"1,818",20.2,0,2,2,0,0,0,4,0,0.00,0.10,0.10,0.00,0.10
+Aboubakar Keita,ci CIV,MF,OH Leuven,22,1997,3,0,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Mandela Keita,be BEL,MF,OH Leuven,18,2002,1,1,64,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Amine Khammas,ma MAR,"MF,DF",Waasland-Bev,21,1999,12,12,"1,021",11.3,0,1,1,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09
+Cédric Kipré,ci CIV,DF,Charleroi,23,1996,5,5,443,4.9,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Klauss,br BRA,FW,Standard Liège,23,1997,13,10,932,10.4,5,3,8,5,0,0,0,0,0.48,0.29,0.77,0.48,0.77
+Hervé Koffi,bf BFA,GK,Excel Mouscron,23,1996,34,34,"3,060",34.0,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Aboubakary Koita,mr MTN,"MF,FW",Waasland-Bev,21,1998,27,20,"1,783",19.8,7,1,8,7,0,0,3,0,0.35,0.05,0.40,0.35,0.40
+Odilon Kossounou,ci CIV,DF,Club Brugge,19,2001,27,24,"2,197",24.4,1,2,3,1,0,0,4,0,0.04,0.08,0.12,0.04,0.12
+Eboue Kouassi,ci CIV,"MF,DF",Genk,22,1997,17,7,691,7.7,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Marko Kvasina,at AUT,FW,Oostende,23,1996,27,7,861,9.6,4,1,5,4,0,0,2,0,0.42,0.10,0.52,0.42,0.52
+Didier Lamkel Zé,cm CMR,"FW,MF",Antwerp,23,1996,18,17,"1,519",16.9,7,4,11,7,0,0,4,0,0.41,0.24,0.65,0.41,0.65
+Noa Lang,nl NED,FW,Club Brugge,21,1999,24,21,"1,749",19.4,14,7,21,13,1,1,6,1,0.72,0.36,1.08,0.67,1.03
+Dimitri Lavalée,be BEL,"DF,MF",Sint-Truiden,23,1997,11,11,974,10.8,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Bryan Limbombe,be BEL,MF,Genk,19,2001,4,0,44,0.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Lucas Lissens,be BEL,DF,Anderlecht,19,2001,2,2,158,1.8,0,0,0,0,0,0,0,1,0.00,0.00,0.00,0.00,0.00
+Jhonny Lucas,br BRA,MF,Sint-Truiden,20,2000,3,1,95,1.1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jhon Lucumí,co COL,DF,Genk,22,1998,32,31,"2,839",31.5,0,0,0,0,0,0,7,0,0.00,0.00,0.00,0.00,0.00
+Gary Magnée,be BEL,MF,Eupen,20,1999,2,1,71,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Yonas Malede,il ISR,FW,Gent,20,1999,5,0,73,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Levi Malungu,be BEL,DF,Charleroi,18,2002,1,0,14,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Benson Manuel,ao ANG,MF,Antwerp,23,1997,5,1,194,2.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jean Marcelin,fr FRA,DF,Cercle Brugge,20,2000,20,20,"1,712",19.0,1,0,1,1,0,0,8,0,0.05,0.00,0.05,0.05,0.05
+Ko Matsubara,jp JPN,DF,Sint-Truiden,23,1996,7,5,473,5.3,0,1,1,0,0,0,1,0,0.00,0.19,0.19,0.00,0.19
+Dylan Mbayo,be BEL,MF,Gent,18,2001,4,0,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Guy Mbenza,cg CGO,FW,Antwerp,20,2000,1,0,21,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Guy Mbenza,cg CGO,FW,Cercle Brugge,20,2000,2,2,172,1.9,2,0,2,2,0,0,0,0,1.05,0.00,1.05,1.05,1.05
+Ayrton Mboko,be BEL,DF,Beerschot,22,1997,4,3,264,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Mark McKenzie,us USA,DF,Genk,21,1999,8,5,519,5.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jenthe Mertens,be BEL,"DF,MF",Waasland-Bev,20,1999,14,6,601,6.7,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Senna Miangue,be BEL,DF,Eupen,23,1997,24,22,"2,043",22.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Koji Miyoshi,jp JPN,"MF,FW",Antwerp,23,1997,18,9,822,9.1,2,1,3,2,0,0,1,0,0.22,0.11,0.33,0.22,0.33
+Samy Mmaee,ma MAR,DF,Sint-Truiden,23,1996,11,9,812,9.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Terem Moffi,ng NGA,FW,Kortrijk,21,1999,2,2,151,1.7,1,0,1,1,0,0,0,0,0.60,0.00,0.60,0.60,0.60
+Dauda Mohammed,gh GHA,"FW,MF",Anderlecht,22,1998,13,0,212,2.4,1,0,1,1,0,0,0,0,0.42,0.00,0.42,0.42,0.42
+Paul Mukairu,ng NGA,"MF,FW",Anderlecht,20,2000,23,15,"1,267",14.1,2,2,4,2,0,0,2,0,0.14,0.14,0.28,0.14,0.28
+David Mukuna,be BEL,FW,Beerschot,18,2001,7,0,58,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jackson Muleka,cd COD,"FW,MF",Standard Liège,20,1999,19,10,903,10.0,7,1,8,7,0,0,3,0,0.70,0.10,0.80,0.70,0.80
+Anthony Musaba,nl NED,"FW,MF",Cercle Brugge,19,2000,29,23,"2,060",22.9,6,3,9,6,0,0,2,0,0.26,0.13,0.39,0.26,0.39
+Bohdan Mykhaylychenko,ua UKR,DF,Anderlecht,23,1997,17,17,"1,519",16.9,1,1,2,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12
+Joakim Mæhle,dk DEN,"DF,MF",Genk,23,1997,16,16,"1,440",16.0,1,3,4,1,0,0,1,0,0.06,0.19,0.25,0.06,0.25
+Konan N'dri,ci CIV,"MF,FW",Eupen,19,2000,33,22,"2,133",23.7,1,4,5,1,0,0,4,0,0.04,0.17,0.21,0.04,0.21
+Keito Nakamura,jp JPN,MF,Sint-Truiden,20,2000,5,2,159,1.8,1,0,1,1,0,0,0,0,0.57,0.00,0.57,0.57,0.57
+Théo Ndicka,fr FRA,"DF,MF",Oostende,20,2000,16,6,768,8.5,0,1,1,0,0,0,4,0,0.00,0.12,0.12,0.00,0.12
+Julien Ngoy,be BEL,FW,Eupen,22,1997,32,22,"2,031",22.6,6,1,7,6,0,0,3,0,0.27,0.04,0.31,0.27,0.31
+Shamar Nicholson,jm JAM,"FW,MF",Charleroi,23,1997,33,23,"2,208",24.5,9,4,13,9,0,1,3,0,0.37,0.16,0.53,0.37,0.53
+Ken Nkuba,be BEL,FW,Charleroi,18,2002,11,1,96,1.1,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Darly Nlandu,fr FRA,"MF,FW",Excel Mouscron,20,2000,11,5,465,5.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Lukas Nmecha,de GER,FW,Anderlecht,21,1998,31,30,"2,608",29.0,14,3,17,6,8,10,3,0,0.48,0.10,0.59,0.21,0.31
+Casper de Norre,be BEL,"DF,MF",OH Leuven,23,1997,23,23,"2,018",22.4,1,3,4,1,0,0,3,0,0.04,0.13,0.18,0.04,0.18
+Marius Noubissi,cm CMR,FW,Beerschot,23,1996,16,9,990,11.0,3,3,6,3,0,0,1,0,0.27,0.27,0.55,0.27,0.55
+Bruny Nsimba,be BEL,FW,Antwerp,20,2000,5,1,169,1.9,0,1,1,0,0,0,0,0,0.00,0.53,0.53,0.00,0.53
+Isaac Nuhu,gh GHA,"MF,FW",Eupen,18,2002,7,5,362,4.0,1,0,1,1,0,0,1,0,0.25,0.00,0.25,0.25,0.25
+Manaf Nurudeen,gh GHA,GK,Eupen,21,1999,1,1,90,1.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Benjamin Nygren,se SWE,FW,Genk,19,2001,3,1,83,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Eric Ocansey,gh GHA,"MF,FW",Kortrijk,22,1997,31,29,"2,438",27.1,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04
+David Okereke,ng NGA,"FW,MF",Club Brugge,22,1997,25,7,796,8.8,4,1,5,4,0,0,0,0,0.45,0.11,0.57,0.45,0.57
+Joshua Okpoda Eppiah,be BEL,FW,OH Leuven,21,1998,11,0,187,2.1,0,1,1,0,0,0,0,0,0.00,0.48,0.48,0.00,0.48
+Jean Onana,cm CMR,MF,Excel Mouscron,20,2000,28,26,"2,284",25.4,2,1,3,2,0,0,6,1,0.08,0.04,0.12,0.08,0.12
+Dylan Ouédraogo,bf BFA,DF,OH Leuven,22,1998,9,8,688,7.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Elisha Owusu,gh GHA,MF,Gent,22,1997,23,17,"1,512",16.8,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Luca Oyen,be BEL,"MF,FW",Genk,17,2003,17,4,516,5.7,0,1,1,0,0,0,0,0,0.00,0.17,0.17,0.00,0.17
+Ante Palaversa,hr CRO,MF,Kortrijk,20,2000,9,6,489,5.4,2,0,2,2,0,0,2,0,0.37,0.00,0.37,0.37,0.37
+Mathéo Parmentier,be BEL,MF,Gent,17,2002,1,0,30,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Evangelos Patoulidis,be BEL,DF,Oostende,18,2001,3,1,96,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Louis Patris,be BEL,DF,OH Leuven,19,2001,2,2,180,2.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Damjan Pavlovic,rs SRB,"MF,DF",Standard Liège,19,2001,7,3,256,2.8,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Strahinja Pavlović,rs SRB,DF,Cercle Brugge,19,2001,11,11,965,10.7,1,0,1,1,0,0,3,0,0.09,0.00,0.09,0.09,0.09
+Daniel Perez,ve VEN,FW,Club Brugge,18,2002,7,0,160,1.8,1,0,1,1,0,0,1,0,0.56,0.00,0.56,0.56,0.56
+Ewoud Pletinckx,be BEL,"DF,MF",Zulte Waregem,19,2000,23,12,"1,123",12.5,2,0,2,2,0,0,0,0,0.16,0.00,0.16,0.16,0.16
+Virgiliu Postolachi,md MDA,FW,Excel Mouscron,20,2000,6,4,285,3.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ángelo Preciado,ec ECU,"MF,DF",Genk,22,1998,9,7,533,5.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Robbe Quirynen,be BEL,DF,Excel Mouscron,18,2001,9,6,609,6.8,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Stipe Radić,hr CRO,DF,Beerschot,20,2000,9,9,786,8.7,1,0,1,1,0,0,3,0,0.11,0.00,0.11,0.11,0.11
+Toon Raemaekers,be BEL,DF,OH Leuven,19,2000,10,7,716,8.0,0,0,0,0,0,0,3,0,0.00,0.00,0.00,0.00,0.00
+Nicolas Raskin,be BEL,MF,Standard Liège,19,2001,29,26,"2,340",26.0,1,4,5,1,0,0,4,0,0.04,0.15,0.19,0.04,0.19
+Serge Raux Yao,fr FRA,DF,Cercle Brugge,21,1999,2,1,97,1.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Tom Reyners,be BEL,"FW,MF",Waasland-Bev,20,2000,1,0,28,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Lucas Ribeiro,br BRA,MF,Charleroi,21,1998,8,1,105,1.2,0,2,2,0,0,0,0,0,0.00,1.71,1.71,0.00,1.71
+Loïc Ritière,be BEL,DF,Kortrijk,19,2001,1,1,68,0.8,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Fashion Sakala,zm ZAM,FW,Oostende,23,1997,28,26,"2,177",24.2,13,3,16,11,2,3,5,0,0.54,0.12,0.66,0.45,0.58
+Albert Sambi Lokonga,be BEL,MF,Anderlecht,20,1999,27,27,"2,383",26.5,3,2,5,3,0,0,2,1,0.11,0.08,0.19,0.11,0.19
+Matisse Samoise,be BEL,MF,Gent,18,2001,5,0,38,0.4,1,0,1,1,0,0,0,0,2.37,0.00,2.37,2.37,2.37
+Abdoulie Sanyang,gm GAM,"MF,FW",Beerschot,21,1999,19,7,718,8.0,0,2,2,0,0,0,2,0,0.00,0.25,0.25,0.00,0.25
+Killian Sardella,be BEL,DF,Anderlecht,18,2002,14,11,"1,081",12.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Brendan Schoonbaert,be BEL,DF,Waasland-Bev,20,2000,27,22,"1,917",21.3,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Jur Schryvers,be BEL,"MF,DF",Waasland-Bev,23,1997,25,18,"1,634",18.2,1,2,3,1,0,0,3,0,0.06,0.11,0.17,0.06,0.17
+Lee Seung-woo,kr KOR,"MF,FW",Sint-Truiden,22,1998,13,7,615,6.8,2,0,2,2,0,0,3,0,0.29,0.00,0.29,0.29,0.29
+Maryan Shved,ua UKR,"MF,FW",Mechelen,23,1997,17,8,787,8.7,3,1,4,3,0,0,0,0,0.34,0.11,0.46,0.34,0.46
+Elias Sierra,be BEL,MF,Genk,18,2001,1,0,10,0.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Leonardo da Silva Lopes,pt POR,MF,Cercle Brugge,21,1998,19,11,955,10.6,1,0,1,1,0,0,6,1,0.09,0.00,0.09,0.09,0.09
+Danel Sinani,lu LUX,"MF,FW",Waasland-Bev,23,1997,18,10,"1,102",12.2,3,1,4,3,0,0,3,0,0.25,0.08,0.33,0.25,0.33
+Hugo Siquet,be BEL,"DF,MF",Standard Liège,18,2002,16,14,"1,194",13.3,0,5,5,0,0,0,2,0,0.00,0.38,0.38,0.00,0.38
+Abdoulaye Sissako,fr FRA,"MF,DF",Zulte Waregem,22,1998,20,7,635,7.1,0,1,1,0,0,0,0,0,0.00,0.14,0.14,0.00,0.14
+Moussa Sissako,ml MLI,DF,Standard Liège,19,2000,6,5,450,5.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Sambou Sissoko,ml MLI,MF,Kortrijk,20,2000,3,3,172,1.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Mikael Soisalo,fi FIN,DF,Zulte Waregem,22,1998,2,1,62,0.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Thibo Somers,be BEL,FW,Cercle Brugge,21,1999,21,2,397,4.4,1,0,1,1,0,0,3,0,0.23,0.00,0.23,0.23,0.23
+Emmanuel Sowah,gh GHA,DF,Eupen,22,1998,2,0,2,0.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Kamal Sowah,gh GHA,"MF,FW",OH Leuven,20,2000,34,34,"3,038",33.8,8,5,13,8,0,0,4,0,0.24,0.15,0.39,0.24,0.39
+Bassem Srarfi,tn TUN,"FW,MF",Zulte Waregem,23,1997,18,8,982,10.9,0,3,3,0,0,0,3,0,0.00,0.27,0.27,0.00,0.27
+Jarne Steuckers,be BEL,MF,Sint-Truiden,18,2002,6,1,206,2.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Mario Stroeykens,be BEL,MF,Anderlecht,15,2004,3,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Din Sula,al ALB,FW,Waasland-Bev,22,1998,6,0,107,1.2,1,0,1,1,0,0,1,0,0.84,0.00,0.84,0.84,0.84
+Youssuf Sylla,be BEL,FW,Zulte Waregem,17,2002,3,1,81,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Eddy Sylvestre,fr FRA,MF,Standard Liège,20,1999,1,1,53,0.6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Musa Al-Taamari,jo JOR,"MF,FW",OH Leuven,23,1997,22,11,"1,178",13.1,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15
+Serge Tabekou,cm CMR,"MF,FW",Excel Mouscron,23,1996,30,21,"1,997",22.2,4,2,6,4,0,0,4,0,0.18,0.09,0.27,0.18,0.27
+Anton Tanghe,be BEL,DF,Oostende,21,1999,29,28,"2,506",27.8,1,0,1,1,0,0,5,0,0.04,0.00,0.04,0.04,0.04
+Abdoul-Fessal Tapsoba,bf BFA,"FW,MF",Standard Liège,18,2001,19,4,578,6.4,0,0,0,0,0,0,4,0,0.00,0.00,0.00,0.00,0.00
+Arthur Theate,be BEL,DF,Oostende,20,2000,29,29,"2,574",28.6,3,0,3,3,0,0,5,0,0.10,0.00,0.10,0.10,0.10
+Kristian Thorstvedt,no NOR,MF,Genk,21,1999,24,16,"1,524",16.9,3,2,5,3,0,0,4,0,0.18,0.12,0.30,0.18,0.30
+William Togui,ci CIV,FW,Mechelen,23,1996,14,6,629,7.0,1,1,2,1,0,0,0,0,0.14,0.14,0.29,0.14,0.29
+Bastien Toma,ch SUI,MF,Genk,21,1999,16,11,884,9.8,1,1,2,1,0,0,1,1,0.10,0.10,0.20,0.10,0.20
+Frank Tsadjout,it ITA,FW,Charleroi,21,1999,3,0,23,0.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Milan Tučić,si SVN,FW,OH Leuven,23,1996,1,0,19,0.2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ike Ugbo,ca CAN,FW,Cercle Brugge,21,1998,32,32,"2,725",30.3,16,0,16,14,2,2,4,0,0.53,0.00,0.53,0.46,0.46
+Jules Van Cleemput,be BEL,DF,Mechelen,23,1997,1,0,29,0.3,0,1,1,0,0,0,0,0,0.00,3.10,3.10,0.00,3.10
+Jules Van Cleemput,be BEL,"DF,MF",Charleroi,23,1997,18,16,"1,268",14.1,0,2,2,0,0,0,5,0,0.00,0.14,0.14,0.00,0.14
+Yani Van Den Bossche,be BEL,MF,Kortrijk,19,2001,8,0,79,0.9,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Thomas Van den Keybus,be BEL,MF,Club Brugge,19,2001,2,0,34,0.4,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Ignace Van Der Brempt,be BEL,"DF,MF",Club Brugge,18,2002,5,2,213,2.4,1,0,1,1,0,0,1,0,0.42,0.00,0.42,0.42,0.42
+Stan Van Dessel,be BEL,MF,Sint-Truiden,19,2001,6,2,241,2.7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Benjamin Van Durmen,be BEL,MF,Excel Mouscron,23,1997,7,4,400,4.4,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Jannes Van Hecke,be BEL,MF,Zulte Waregem,18,2002,12,9,851,9.5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Maarten Vandevoordt,be BEL,GK,Genk,18,2002,10,10,900,10.0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Zinho Vanheusden,be BEL,DF,Standard Liège,21,1999,8,8,651,7.2,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Charles Vanhoutte,be BEL,MF,Cercle Brugge,21,1998,28,19,"1,756",19.5,0,1,1,0,0,0,3,0,0.00,0.05,0.05,0.00,0.05
+Daan Vekemans,be BEL,MF,OH Leuven,20,2000,14,2,259,2.9,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.00
+Matthias Verreth,be BEL,"MF,FW",Waasland-Bev,22,1998,4,2,191,2.1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Yari Verschaeren,be BEL,MF,Anderlecht,19,2001,16,12,996,11.1,5,3,8,5,0,0,0,0,0.45,0.27,0.72,0.45,0.72
+Louis Verstraete,be BEL,MF,Waasland-Bev,21,1999,5,5,438,4.9,3,0,3,3,0,0,2,0,0.62,0.00,0.62,0.62,0.62
+Louis Verstraete,be BEL,MF,Antwerp,21,1999,3,1,120,1.3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Vitinho,br BRA,"DF,MF",Cercle Brugge,21,1999,28,21,"1,912",21.2,1,2,3,1,0,0,2,0,0.05,0.09,0.14,0.05,0.14
+Michel Vlap,nl NED,MF,Anderlecht,23,1997,11,8,617,6.9,1,0,1,0,1,1,3,0,0.15,0.00,0.15,0.00,0.00
+Thibault Vlietinck,be BEL,"DF,MF",OH Leuven,22,1997,19,17,"1,392",15.5,1,1,2,1,0,0,2,0,0.06,0.06,0.13,0.06,0.13
+Siemen Voet,be BEL,DF,Mechelen,20,2000,9,8,631,7.0,1,0,1,1,0,0,1,1,0.14,0.00,0.14,0.14,0.14
+Aster Vranckx,be BEL,MF,Mechelen,17,2002,29,17,"1,586",17.6,4,2,6,4,0,0,4,1,0.23,0.11,0.34,0.23,0.34
+Andrija Vukčević,me MNE,DF,Waasland-Bev,23,1996,9,7,693,7.7,0,0,0,0,0,0,2,0,0.00,0.00,0.00,0.00,0.00
+Warleson,br BRA,GK,Cercle Brugge,23,1996,3,3,270,3.0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00
+Jan Worogowski,kz KAZ,"MF,DF",Beerschot,23,1996,21,16,"1,244",13.8,1,0,1,1,0,0,5,0,0.07,0.00,0.07,0.07,0.07
+Dries Wouters,be BEL,MF,Genk,23,1997,8,4,391,4.3,0,1,1,0,0,0,2,0,0.00,0.23,0.23,0.00,0.23
+Xadas,pt POR,MF,Excel Mouscron,22,1997,25,20,"1,699",18.9,2,3,5,2,0,0,3,0,0.11,0.16,0.26,0.11,0.26

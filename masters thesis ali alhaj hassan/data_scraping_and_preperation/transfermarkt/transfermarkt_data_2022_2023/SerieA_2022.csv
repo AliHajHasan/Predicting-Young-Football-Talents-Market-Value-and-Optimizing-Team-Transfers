@@ -1,0 +1,801 @@
+Club,Player,Market Value (€)
+SSC Napoli,Alex Meret,18000000.0
+SSC Napoli,Pierluigi Gollini,4500000.0
+SSC Napoli,Salvatore Sirigu,500000.0
+SSC Napoli,Hubert Idasiak,150000.0
+SSC Napoli,Valerio Boffelli,75000.0
+SSC Napoli,Davide Marfella,50000.0
+SSC Napoli,Min-jae Kim,60000000.0
+SSC Napoli,Amir Rrahmani,25000000.0
+SSC Napoli,Leo Østigård,7000000.0
+SSC Napoli,Juan Jesus,3500000.0
+SSC Napoli,Mathías Olivera,18000000.0
+SSC Napoli,Mário Rui,8000000.0
+SSC Napoli,Giovanni Di Lorenzo,25000000.0
+SSC Napoli,Alessandro Zanoli,6000000.0
+SSC Napoli,Bartosz Bereszyński,1600000.0
+SSC Napoli,Stanislav Lobotka,40000000.0
+SSC Napoli,Diego Demme,3000000.0
+SSC Napoli,Frank Anguissa,40000000.0
+SSC Napoli,Piotr Zieliński,35000000.0
+SSC Napoli,Tanguy Ndombélé,22000000.0
+SSC Napoli,Karim Zedadka,200000.0
+SSC Napoli,Eljif Elmas,26000000.0
+SSC Napoli,Gianluca Gaetano,4500000.0
+SSC Napoli,Khvicha Kvaratskhelia,85000000.0
+SSC Napoli,Hirving Lozano,25000000.0
+SSC Napoli,Alessio Zerbin,4000000.0
+SSC Napoli,Matteo Politano,15000000.0
+SSC Napoli,Adam Ounas,7000000.0
+SSC Napoli,Giacomo Raspadori,35000000.0
+SSC Napoli,Victor Osimhen,120000000.0
+SSC Napoli,Giovanni Simeone,15000000.0
+Inter Milan,André Onana,35000000.0
+Inter Milan,Samir Handanovič,500000.0
+Inter Milan,Gabriel Brazão,400000.0
+Inter Milan,Alex Cordaz,200000.0
+Inter Milan,Nikolaos Botis,100000.0
+Inter Milan,Alessandro Bastoni,60000000.0
+Inter Milan,Milan Skriniar,50000000.0
+Inter Milan,Stefan de Vrij,8000000.0
+Inter Milan,Francesco Acerbi,4000000.0
+Inter Milan,Danilo D'Ambrosio,1500000.0
+Inter Milan,Alessandro Fontanarosa,400000.0
+Inter Milan,Federico Dimarco,35000000.0
+Inter Milan,Robin Gosens,15000000.0
+Inter Milan,Dalbert,1000000.0
+Inter Milan,Denzel Dumfries,28000000.0
+Inter Milan,Matteo Darmian,4000000.0
+Inter Milan,Mattia Zanotti,800000.0
+Inter Milan,Hakan Çalhanoğlu,40000000.0
+Inter Milan,Marcelo Brozović,25000000.0
+Inter Milan,Kristjan Asllani,12000000.0
+Inter Milan,Lucien Agoumé,7000000.0
+Inter Milan,Aleksandar Stankovic,0.0
+Inter Milan,Nicolò Barella,75000000.0
+Inter Milan,Henrikh Mkhitaryan,6000000.0
+Inter Milan,Roberto Gagliardini,4000000.0
+Inter Milan,Ebenezer Akinsanmiro,800000.0
+Inter Milan,Raoul Bellanova,5000000.0
+Inter Milan,Valentín Carboni,5000000.0
+Inter Milan,Issiaka Kamate,200000.0
+Inter Milan,Joaquín Correa,12000000.0
+Inter Milan,Lautaro Martínez,85000000.0
+Inter Milan,Romelu Lukaku,40000000.0
+Inter Milan,Edin Dzeko,4000000.0
+Inter Milan,Eddie Salcedo,2500000.0
+Inter Milan,Dennis Curatolo,150000.0
+AC Milan,Mike Maignan,45000000.0
+AC Milan,Ciprian Tătărușanu,400000.0
+AC Milan,Devis Vásquez,350000.0
+AC Milan,Andreas Jungdal,300000.0
+AC Milan,Lapo Nava,150000.0
+AC Milan,Antonio Mirante,100000.0
+AC Milan,Fikayo Tomori,40000000.0
+AC Milan,Pierre Kalulu,30000000.0
+AC Milan,Malick Thiaw,20000000.0
+AC Milan,Matteo Gabbia,5000000.0
+AC Milan,Simon Kjaer,3500000.0
+AC Milan,Andrei Coubiș,100000.0
+AC Milan,Theo Hernández,60000000.0
+AC Milan,Fodé Ballo-Touré,3500000.0
+AC Milan,Andrea Bozzolan,125000.0
+AC Milan,Davide Calabria,20000000.0
+AC Milan,Sergiño Dest,10000000.0
+AC Milan,Alessandro Florenzi,2000000.0
+AC Milan,Ismaël Bennacer,40000000.0
+AC Milan,Rade Krunic,10000000.0
+AC Milan,Yacine Adli,8000000.0
+AC Milan,Tiemoué Bakayoko,2500000.0
+AC Milan,Sandro Tonali,50000000.0
+AC Milan,Tommaso Pobega,14000000.0
+AC Milan,Aster Vranckx,8500000.0
+AC Milan,Antonio Gala,75000.0
+AC Milan,Charles De Ketelaere,22000000.0
+AC Milan,Rafael Leão,90000000.0
+AC Milan,Ante Rebić,6000000.0
+AC Milan,Brahim Díaz,20000000.0
+AC Milan,Alexis Saelemaekers,15000000.0
+AC Milan,Junior Messias,4500000.0
+AC Milan,Divock Origi,6000000.0
+AC Milan,Olivier Giroud,4000000.0
+AC Milan,Marko Lazetić,2000000.0
+AC Milan,Zlatan Ibrahimovic,2000000.0
+Juventus FC,Wojciech Szczesny,10000000.0
+Juventus FC,Mattia Perin,4000000.0
+Juventus FC,Gian Marco Crespi,200000.0
+Juventus FC,Giovanni Garofani,200000.0
+Juventus FC,Carlo Pinsoglio,200000.0
+Juventus FC,Simone Scaglia,25000.0
+Juventus FC,Bremer,40000000.0
+Juventus FC,Danilo,15000000.0
+Juventus FC,Federico Gatti,12000000.0
+Juventus FC,Daniele Rugani,2000000.0
+Juventus FC,Leonardo Bonucci,1500000.0
+Juventus FC,Alessandro Pio Riccio,700000.0
+Juventus FC,Filip Kostić,22000000.0
+Juventus FC,Alex Sandro,3000000.0
+Juventus FC,Mattia De Sciglio,3000000.0
+Juventus FC,Tommaso Barbieri,1200000.0
+Juventus FC,Manuel Locatelli,30000000.0
+Juventus FC,Denis Zakaria,18000000.0
+Juventus FC,Nicolò Rovella,18000000.0
+Juventus FC,Leandro Paredes,12000000.0
+Juventus FC,Enzo Barrenechea,900000.0
+Juventus FC,Adrien Rabiot,40000000.0
+Juventus FC,Nicolò Fagioli,35000000.0
+Juventus FC,Weston McKennie,18000000.0
+Juventus FC,Paul Pogba,15000000.0
+Juventus FC,Fabio Miretti,15000000.0
+Juventus FC,Alessandro Sersanti,400000.0
+Juventus FC,Juan Cuadrado,4000000.0
+Juventus FC,Nikola Sekulov,600000.0
+Juventus FC,Mohamed Ihattaren,0.0
+Juventus FC,Samuel Iling-Junior,9000000.0
+Juventus FC,Federico Chiesa,40000000.0
+Juventus FC,Ángel Di María,8000000.0
+Juventus FC,Matías Soulé,4000000.0
+Juventus FC,Mattia Compagnon,400000.0
+Juventus FC,Dušan Vlahović,70000000.0
+Juventus FC,Moise Kean,18000000.0
+Juventus FC,Arkadiusz Milik,8000000.0
+Juventus FC,Kaio Jorge,3000000.0
+Juventus FC,Cosimo da Graça,800000.0
+AS Roma,Rui Patrício,5000000.0
+AS Roma,Mile Svilar,1500000.0
+AS Roma,Pietro Boer,150000.0
+AS Roma,Gabriele Baldi,100000.0
+AS Roma,Jacopo Del Bello,25000.0
+AS Roma,Roger Ibañez,30000000.0
+AS Roma,Gianluca Mancini,18000000.0
+AS Roma,Diego Llorente,12000000.0
+AS Roma,Chris Smalling,8000000.0
+AS Roma,Marash Kumbulla,8000000.0
+AS Roma,Dimitrios Keramitsis,250000.0
+AS Roma,William Bianda,200000.0
+AS Roma,Brian Silva,75000.0
+AS Roma,Leonardo Spinazzola,10000000.0
+AS Roma,Matías Viña,8000000.0
+AS Roma,Jan Oliveras,175000.0
+AS Roma,Matteo Falasca,100000.0
+AS Roma,Zeki Çelik,10000000.0
+AS Roma,Rick Karsdorp,7000000.0
+AS Roma,Filippo Missori,800000.0
+AS Roma,Corentin Louakima,100000.0
+AS Roma,Bryan Cristante,20000000.0
+AS Roma,Nemanja Matic,4000000.0
+AS Roma,Ebrima Darboe,1800000.0
+AS Roma,Benjamin Tahirovic,1500000.0
+AS Roma,Giacomo Faticanti,800000.0
+AS Roma,Filippo Tripi,300000.0
+AS Roma,Mady Camara,10000000.0
+AS Roma,Edoardo Bove,10000000.0
+AS Roma,Georginio Wijnaldum,8000000.0
+AS Roma,Niccolò Pisilli,1000000.0
+AS Roma,Riccardo Pagano,900000.0
+AS Roma,Nicola Zalewski,20000000.0
+AS Roma,Lorenzo Pellegrini,35000000.0
+AS Roma,Nicolò Zaniolo,27000000.0
+AS Roma,Cristian Volpato,3000000.0
+AS Roma,Ante Coric,300000.0
+AS Roma,Claudio Cassano,200000.0
+AS Roma,Stephan El Shaarawy,5000000.0
+AS Roma,Luigi Cherubini,200000.0
+AS Roma,Ola Solbakken,3500000.0
+AS Roma,Paulo Dybala,30000000.0
+AS Roma,Tammy Abraham,40000000.0
+AS Roma,Andrea Belotti,8000000.0
+AS Roma,Eldor Shomurodov,6000000.0
+AS Roma,Felix Afena-Gyan,5000000.0
+AS Roma,Jordan Majchrzak,400000.0
+Atalanta BC,Juan Musso,8000000.0
+Atalanta BC,Marco Sportiello,1500000.0
+Atalanta BC,Tommaso Bertini,100000.0
+Atalanta BC,Francesco Rossi,100000.0
+Atalanta BC,Giorgio Scalvini,40000000.0
+Atalanta BC,Merih Demiral,20000000.0
+Atalanta BC,Caleb Okoli,10000000.0
+Atalanta BC,Berat Djimsiti,10000000.0
+Atalanta BC,Rafael Tolói,6000000.0
+Atalanta BC,José Luis Palomino,2500000.0
+Atalanta BC,Iacopo Regonesi,200000.0
+Atalanta BC,Tommaso Del Lungo,100000.0
+Atalanta BC,Joakim Maehle,14000000.0
+Atalanta BC,Brandon Soppy,9000000.0
+Atalanta BC,Hans Hateboer,6000000.0
+Atalanta BC,Marten de Roon,10000000.0
+Atalanta BC,Mannah Chiwisa,125000.0
+Atalanta BC,Leonardo Mendicino,0.0
+Atalanta BC,Éderson,20000000.0
+Atalanta BC,Mario Pasalic,20000000.0
+Atalanta BC,Endri Muhameti,150000.0
+Atalanta BC,Matteo Colombo,125000.0
+Atalanta BC,Simone Muratore,100000.0
+Atalanta BC,Davide Zappacosta,7000000.0
+Atalanta BC,Nadir Zortea,2000000.0
+Atalanta BC,Marco Palestra,0.0
+Atalanta BC,Matteo Ruggeri,4000000.0
+Atalanta BC,Lorenzo Bernasconi,75000.0
+Atalanta BC,Teun Koopmeiners,30000000.0
+Atalanta BC,Ruslan Malinovskyi,15000000.0
+Atalanta BC,Jérémie Boga,14000000.0
+Atalanta BC,Lukas Vorlicky,100000.0
+Atalanta BC,Ademola Lookman,30000000.0
+Atalanta BC,Tommaso De Nipoti,175000.0
+Atalanta BC,Alessandro Falleni,25000.0
+Atalanta BC,Rasmus Højlund,45000000.0
+Atalanta BC,Duván Zapata,8000000.0
+Atalanta BC,Luis Muriel,5000000.0
+SS Lazio,Ivan Provedel,12000000.0
+SS Lazio,Luís Maximiano,6000000.0
+SS Lazio,Marius Adamonis,150000.0
+SS Lazio,Federico Magro,0.0
+SS Lazio,Nicolò Casale,22000000.0
+SS Lazio,Alessio Romagnoli,18000000.0
+SS Lazio,Patric,5000000.0
+SS Lazio,Mario Gila,3000000.0
+SS Lazio,Fabio Andrea Ruggeri,75000.0
+SS Lazio,Luca Pellegrini,7000000.0
+SS Lazio,Mohamed Salim Fares,2000000.0
+SS Lazio,Dimitrije Kamenovic,700000.0
+SS Lazio,Ștefan Radu,300000.0
+SS Lazio,Adam Marusic,8000000.0
+SS Lazio,Elseid Hysaj,5000000.0
+SS Lazio,Romano Floriani Mussolini,75000.0
+SS Lazio,Danilo Cataldi,10000000.0
+SS Lazio,Marco Bertini,100000.0
+SS Lazio,Sergej Milinković-Savić,50000000.0
+SS Lazio,Marcos Antônio,8000000.0
+SS Lazio,Toma Bašić,6000000.0
+SS Lazio,Matías Vecino,4500000.0
+SS Lazio,Manuel Lazzari,7500000.0
+SS Lazio,Djavan Anderson,275000.0
+SS Lazio,Luis Alberto,18000000.0
+SS Lazio,Mattia Zaccagni,30000000.0
+SS Lazio,Felipe Anderson,15000000.0
+SS Lazio,Raúl Moro,2500000.0
+SS Lazio,Matteo Cancellieri,5000000.0
+SS Lazio,Luka Romero,3000000.0
+SS Lazio,Pedro,1500000.0
+SS Lazio,Diego González,750000.0
+SS Lazio,Ciro Immobile,15000000.0
+ACF Fiorentina,Pierluigi Gollini,4500000.0
+ACF Fiorentina,Pietro Terracciano,2000000.0
+ACF Fiorentina,Michele Cerofolini,500000.0
+ACF Fiorentina,Salvatore Sirigu,500000.0
+ACF Fiorentina,Tommaso Martinelli,0.0
+ACF Fiorentina,Tommaso Vannucchi,0.0
+ACF Fiorentina,Nikola Milenković,18000000.0
+ACF Fiorentina,Lucas Martínez Quarta,10000000.0
+ACF Fiorentina,Igor,10000000.0
+ACF Fiorentina,Luca Ranieri,2500000.0
+ACF Fiorentina,Matija Nastasić,1500000.0
+ACF Fiorentina,Dimo Krastev,200000.0
+ACF Fiorentina,Cristiano Biraghi,5000000.0
+ACF Fiorentina,Aleksa Terzic,2000000.0
+ACF Fiorentina,Dodô,20000000.0
+ACF Fiorentina,Lorenzo Venuti,2000000.0
+ACF Fiorentina,Michael Kayode,800000.0
+ACF Fiorentina,Sofyan Amrabat,30000000.0
+ACF Fiorentina,Rolando Mandragora,10000000.0
+ACF Fiorentina,Lorenzo Amatucci,700000.0
+ACF Fiorentina,Gaetano Castrovilli,10000000.0
+ACF Fiorentina,Youssef Maleh,4500000.0
+ACF Fiorentina,Alfred Duncan,4000000.0
+ACF Fiorentina,Szymon Żurkowski,3500000.0
+ACF Fiorentina,Marco Benassi,1500000.0
+ACF Fiorentina,Alessandro Bianco,800000.0
+ACF Fiorentina,Costantino Favasuli,200000.0
+ACF Fiorentina,Antonín Barák,10000000.0
+ACF Fiorentina,Giacomo Bonaventura,2500000.0
+ACF Fiorentina,Riccardo Saponara,2000000.0
+ACF Fiorentina,Riccardo Sottil,8000000.0
+ACF Fiorentina,Josip Brekalo,5000000.0
+ACF Fiorentina,Nico González,30000000.0
+ACF Fiorentina,Jonathan Ikoné,16000000.0
+ACF Fiorentina,Filippo Distefano,600000.0
+ACF Fiorentina,Arthur Cabral,20000000.0
+ACF Fiorentina,Christian Kouamé,12000000.0
+ACF Fiorentina,Luka Jović,8000000.0
+US Sassuolo,Andrea Consigli,1000000.0
+US Sassuolo,Alessandro Russo,350000.0
+US Sassuolo,Gioele Zacchi,150000.0
+US Sassuolo,Gianluca Pegolo,100000.0
+US Sassuolo,Martin Erlić,5000000.0
+US Sassuolo,Ruan,4500000.0
+US Sassuolo,Kaan Ayhan,3700000.0
+US Sassuolo,Gian Marco Ferrari,2000000.0
+US Sassuolo,Filippo Romagna,400000.0
+US Sassuolo,Adrian Cannavaro,100000.0
+US Sassuolo,Rogério,5500000.0
+US Sassuolo,Riccardo Marchizza,1000000.0
+US Sassuolo,Edoardo Pieragnolo,100000.0
+US Sassuolo,Jeremy Toljan,4500000.0
+US Sassuolo,Mert Müldür,4000000.0
+US Sassuolo,Maxime Lopez,15000000.0
+US Sassuolo,Davide Frattesi,25000000.0
+US Sassuolo,Matheus Henrique,10000000.0
+US Sassuolo,Abdou Harroui,2700000.0
+US Sassuolo,Pedro Obiang,800000.0
+US Sassuolo,Nadir Zortea,2000000.0
+US Sassuolo,Georgios Kyriakopoulos,3800000.0
+US Sassuolo,Hamed Junior Traoré,22000000.0
+US Sassuolo,Nedim Bajrami,7500000.0
+US Sassuolo,Kristian Thorstvedt,7500000.0
+US Sassuolo,Kevin Bruno,0.0
+US Sassuolo,Armand Laurienté,18000000.0
+US Sassuolo,Emil Konradsen Ceide,2500000.0
+US Sassuolo,Domenico Berardi,18000000.0
+US Sassuolo,Luca D'Andrea,2500000.0
+US Sassuolo,Giacomo Raspadori,35000000.0
+US Sassuolo,Andrea Pinamonti,15000000.0
+US Sassuolo,Agustín Álvarez,8000000.0
+US Sassuolo,Janis Antiste,3000000.0
+US Sassuolo,Grégoire Defrel,1500000.0
+Torino FC,Vanja Milinković-Savić,3500000.0
+Torino FC,Etrit Berisha,400000.0
+Torino FC,Luca Gemello,300000.0
+Torino FC,Matteo Fiorenza,50000.0
+Torino FC,Perr Schuurs,25000000.0
+Torino FC,Wilfried Singo,12000000.0
+Torino FC,Alessandro Buongiorno,10000000.0
+Torino FC,David Zima,5000000.0
+Torino FC,Andreaw Gravillon,4000000.0
+Torino FC,Koffi Djidji,3000000.0
+Torino FC,Ange Caumenan N'Guessan,200000.0
+Torino FC,Sebas Wade,10000.0
+Torino FC,Ricardo Rodríguez,3500000.0
+Torino FC,Mërgim Vojvoda,4000000.0
+Torino FC,Ola Aina,3500000.0
+Torino FC,Samuele Ricci,20000000.0
+Torino FC,Ivan Ilić,19000000.0
+Torino FC,Saša Lukić,12000000.0
+Torino FC,Emirhan İlkhan,4000000.0
+Torino FC,Karol Linetty,3500000.0
+Torino FC,Ronaldo Vieira,2000000.0
+Torino FC,Jacopo Segre,1700000.0
+Torino FC,Gvidas Gineitis,900000.0
+Torino FC,Michel Adopo,500000.0
+Torino FC,Matthew Garbett,300000.0
+Torino FC,Aaron Ciammaglichella,0.0
+Torino FC,Brian Bayeye,500000.0
+Torino FC,Ali Dembélé,200000.0
+Torino FC,Valentino Lazaro,5000000.0
+Torino FC,Nikola Vlašić,17000000.0
+Torino FC,Aleksey Miranchuk,12000000.0
+Torino FC,Nemanja Radonjić,4000000.0
+Torino FC,Yann Karamoh,3500000.0
+Torino FC,Demba Seck,2700000.0
+Torino FC,Simone Edera,300000.0
+Torino FC,Antonio Sanabria,10000000.0
+Torino FC,Pietro Pellegri,3500000.0
+Torino FC,Luigi Caccavo,125000.0
+Udinese Calcio,Marco Silvestri,5000000.0
+Udinese Calcio,Daniele Padelli,200000.0
+Udinese Calcio,Edoardo Piana,50000.0
+Udinese Calcio,Nehuén Pérez,10000000.0
+Udinese Calcio,Jaka Bijol,10000000.0
+Udinese Calcio,Rodrigo Becão,10000000.0
+Udinese Calcio,Enzo Ebosse,4500000.0
+Udinese Calcio,Adam Masina,2500000.0
+Udinese Calcio,Filip Benkovic,2200000.0
+Udinese Calcio,Bram Nuytinck,1000000.0
+Udinese Calcio,James Abankwah,300000.0
+Udinese Calcio,Axel Guessand,250000.0
+Udinese Calcio,Niccolò Cocetta,75000.0
+Udinese Calcio,Destiny Udogie,25000000.0
+Udinese Calcio,Leonardo Buta,1500000.0
+Udinese Calcio,Marvin Zeegelaar,400000.0
+Udinese Calcio,Brandon Soppy,9000000.0
+Udinese Calcio,Festy Ebosele,3500000.0
+Udinese Calcio,Kingsley Ehizibue,2500000.0
+Udinese Calcio,Walace,7000000.0
+Udinese Calcio,Martin Palumbo,700000.0
+Udinese Calcio,Mato Jajalo,250000.0
+Udinese Calcio,Riccardo Castagnaviz,50000.0
+Udinese Calcio,Lazar Samardžić,14000000.0
+Udinese Calcio,Jean-Victor Makengo,10000000.0
+Udinese Calcio,Sandi Lovrić,10000000.0
+Udinese Calcio,Roberto Pereyra,6000000.0
+Udinese Calcio,Matteo Bassi,10000.0
+Udinese Calcio,Simone Pafundi,8000000.0
+Udinese Calcio,Tolgay Arslan,1400000.0
+Udinese Calcio,Alberto Centis,75000.0
+Udinese Calcio,Diego Russo,0.0
+Udinese Calcio,Florian Thauvin,3500000.0
+Udinese Calcio,Beto,25000000.0
+Udinese Calcio,Gerard Deulofeu,10000000.0
+Udinese Calcio,Isaac Success,4000000.0
+Udinese Calcio,Vivaldo Semedo,500000.0
+Udinese Calcio,Ilija Nestorovski,400000.0
+Bologna FC 1909,Lukasz Skorupski,3500000.0
+Bologna FC 1909,Federico Ravaglia,450000.0
+Bologna FC 1909,Francesco Bardi,400000.0
+Bologna FC 1909,Nicola Bagnolini,200000.0
+Bologna FC 1909,Francesco Raffaelli,0.0
+Bologna FC 1909,Jhon Lucumí,12000000.0
+Bologna FC 1909,Joaquín Sosa,3000000.0
+Bologna FC 1909,Adama Soumaoro,3000000.0
+Bologna FC 1909,Kevin Bonifazi,2800000.0
+Bologna FC 1909,Gary Medel,800000.0
+Bologna FC 1909,Wisdom Amey,700000.0
+Bologna FC 1909,Matteo Angeli,450000.0
+Bologna FC 1909,Riccardo Stivanello,250000.0
+Bologna FC 1909,Mattia Motolese,125000.0
+Bologna FC 1909,Andrea Cambiaso,8000000.0
+Bologna FC 1909,Charalampos Lykogiannis,1000000.0
+Bologna FC 1909,Stefan Posch,14000000.0
+Bologna FC 1909,Denso Kasius,1700000.0
+Bologna FC 1909,Lorenzo De Silvestri,400000.0
+Bologna FC 1909,Ibrahima Mbaye,300000.0
+Bologna FC 1909,Jerdy Schouten,12000000.0
+Bologna FC 1909,Nikola Moro,6500000.0
+Bologna FC 1909,Nicolás Domínguez,17000000.0
+Bologna FC 1909,Michel Aebischer,4000000.0
+Bologna FC 1909,Niklas Pyyhtiä,600000.0
+Bologna FC 1909,Kacper Urbanski,600000.0
+Bologna FC 1909,Kingsley Michael,250000.0
+Bologna FC 1909,Georgios Kyriakopoulos,3800000.0
+Bologna FC 1909,Lewis Ferguson,12000000.0
+Bologna FC 1909,Roberto Soriano,2500000.0
+Bologna FC 1909,Musa Barrow,11000000.0
+Bologna FC 1909,Nicola Sansone,1500000.0
+Bologna FC 1909,Riccardo Orsolini,12000000.0
+Bologna FC 1909,Emanuel Vignato,2000000.0
+Bologna FC 1909,Orji Okwonkwo,0.0
+Bologna FC 1909,Joshua Zirkzee,9000000.0
+Bologna FC 1909,Marko Arnautovic,5000000.0
+Bologna FC 1909,Antonio Raimondo,800000.0
+AC Monza,Michele Di Gregorio,8000000.0
+AC Monza,Alessio Cragno,3000000.0
+AC Monza,Alessandro Sorrentino,500000.0
+AC Monza,Eugenio Lamanna,100000.0
+AC Monza,Marlon,6000000.0
+AC Monza,Pablo Marí,5000000.0
+AC Monza,Andrea Carboni,4000000.0
+AC Monza,Armando Izzo,3000000.0
+AC Monza,Luca Caldirola,1500000.0
+AC Monza,Valentin Antov,800000.0
+AC Monza,Luca Marrone,200000.0
+AC Monza,Sheriff Kassama,150000.0
+AC Monza,Gabriel Paletta,0.0
+AC Monza,Andrea Ranocchia,0.0
+AC Monza,Carlos Augusto,15000000.0
+AC Monza,Franco Carboni,1000000.0
+AC Monza,Samuele Birindelli,2300000.0
+AC Monza,Gabriele Ferrarini,550000.0
+AC Monza,Giulio Donati,500000.0
+AC Monza,Nicolò Rovella,18000000.0
+AC Monza,Andrea Barberis,800000.0
+AC Monza,Antonis Siatounis,75000.0
+AC Monza,Leonardo Colombo,0.0
+AC Monza,Matteo Pessina,15000000.0
+AC Monza,Stefano Sensi,8000000.0
+AC Monza,Filippo Ranocchia,1800000.0
+AC Monza,Pepín Machín,1500000.0
+AC Monza,Mattia Valoti,1500000.0
+AC Monza,Warren Bondo,700000.0
+AC Monza,Patrick Ciurria,5000000.0
+AC Monza,Salvatore Molina,650000.0
+AC Monza,Andrea Colpani,4000000.0
+AC Monza,Samuele Vignato,600000.0
+AC Monza,Andrea Ferraris,100000.0
+AC Monza,Marco D'Alessandro,700000.0
+AC Monza,Gianluca Caprari,8000000.0
+AC Monza,Dany Mota,6000000.0
+AC Monza,Andrea Petagna,10000000.0
+AC Monza,Christian Gytkjaer,800000.0
+AC Monza,Mirko Marić,800000.0
+AC Monza,Leo dos Reis,75000.0
+FC Empoli,Guglielmo Vicario,16000000.0
+FC Empoli,Samuele Perisan,800000.0
+FC Empoli,Jacopo Furlan,200000.0
+FC Empoli,Lovro Stubljar,200000.0
+FC Empoli,Samir Ujkani,100000.0
+FC Empoli,Gian Marco Fantoni,50000.0
+FC Empoli,Jacopo Seghetti,0.0
+FC Empoli,Koni De Winter,4000000.0
+FC Empoli,Ardian Ismajli,3500000.0
+FC Empoli,Sebastian Walukiewicz,3000000.0
+FC Empoli,Sebastiano Luperto,3000000.0
+FC Empoli,Gabriele Guarino,800000.0
+FC Empoli,Lorenzo Tonelli,500000.0
+FC Empoli,Gabriele Indragoli,100000.0
+FC Empoli,Fabiano Parisi,10000000.0
+FC Empoli,Liberato Cacace,2000000.0
+FC Empoli,Samuele Angori,200000.0
+FC Empoli,Tyronne Ebuehi,2500000.0
+FC Empoli,Petar Stojanović,2300000.0
+FC Empoli,Răzvan Marin,8000000.0
+FC Empoli,Alberto Grassi,2000000.0
+FC Empoli,Leo Stulac,1000000.0
+FC Empoli,Duccio Degli Innocenti,500000.0
+FC Empoli,Jacopo Fazzini,3500000.0
+FC Empoli,Filippo Bandinelli,3500000.0
+FC Empoli,Liam Henderson,2500000.0
+FC Empoli,Nicolas Haas,2000000.0
+FC Empoli,Jean-Daniel Akpa Akpro,1500000.0
+FC Empoli,Giovanni Crociata,750000.0
+FC Empoli,Lorenzo Ignacchiti,250000.0
+FC Empoli,Alessandro Renzi,175000.0
+FC Empoli,Tommaso Baldanzi,15000000.0
+FC Empoli,Nedim Bajrami,7500000.0
+FC Empoli,Marko Pjaca,1700000.0
+FC Empoli,Emmanuel Ekong,250000.0
+FC Empoli,Emanuel Vignato,2000000.0
+FC Empoli,Davide Merola,400000.0
+FC Empoli,Nicolò Cambiaghi,8000000.0
+FC Empoli,Martín Satriano,7000000.0
+FC Empoli,Roberto Piccoli,3500000.0
+FC Empoli,Sam Lammers,2000000.0
+FC Empoli,Francesco Caputo,1500000.0
+FC Empoli,Mattia Destro,1300000.0
+FC Empoli,Herculano Nabian,450000.0
+Hellas Verona,Lorenzo Montipò,4000000.0
+Hellas Verona,Simone Perilli,200000.0
+Hellas Verona,Mattia Chiesa,100000.0
+Hellas Verona,Alessandro Berardi,50000.0
+Hellas Verona,Giacomo Toniolo,10000.0
+Hellas Verona,Manuel Ravasio,0.0
+Hellas Verona,Isak Hien,6000000.0
+Hellas Verona,Diego Coppola,4000000.0
+Hellas Verona,Koray Günter,3500000.0
+Hellas Verona,Giangiacomo Magnani,3000000.0
+Hellas Verona,Paweł Dawidowicz,3000000.0
+Hellas Verona,Bruno Amione,2700000.0
+Hellas Verona,Panagiotis Retsos,2000000.0
+Hellas Verona,Federico Ceccherini,1500000.0
+Hellas Verona,Josh Doig,8000000.0
+Hellas Verona,Juan Cabal,2500000.0
+Hellas Verona,Davide Faraoni,3000000.0
+Hellas Verona,Fabio Depaoli,3000000.0
+Hellas Verona,Filippo Terracciano,1500000.0
+Hellas Verona,Deyovaisio Zeefuik,1200000.0
+Hellas Verona,Adrien Tamèze,6000000.0
+Hellas Verona,Oliver Abildgaard,4500000.0
+Hellas Verona,Martin Hongla,3000000.0
+Hellas Verona,Ibrahim Sulemana,1500000.0
+Hellas Verona,Miguel Veloso,500000.0
+Hellas Verona,Joselito,75000.0
+Hellas Verona,Ivan Ilić,19000000.0
+Hellas Verona,Ondrej Duda,3400000.0
+Hellas Verona,Darko Lazović,2500000.0
+Hellas Verona,Antonín Barák,10000000.0
+Hellas Verona,Simone Verdi,4000000.0
+Hellas Verona,Ajdin Hrustić,1500000.0
+Hellas Verona,Mateusz Praszelik,900000.0
+Hellas Verona,Alessandro Cortinovis,700000.0
+Hellas Verona,Alphadjo Cissè,0.0
+Hellas Verona,Jayden Braaf,1000000.0
+Hellas Verona,Cyril Ngonge,2000000.0
+Hellas Verona,Yayah Kallon,1500000.0
+Hellas Verona,Davide Bragantini,150000.0
+Hellas Verona,Denis Cazzadori,150000.0
+Hellas Verona,Thomas Henry,4000000.0
+Hellas Verona,Roberto Piccoli,3500000.0
+Hellas Verona,Kevin Lasagna,1800000.0
+Hellas Verona,Adolfo Gaich,1800000.0
+Hellas Verona,Milan Djuric,1000000.0
+Hellas Verona,Federico Caia,150000.0
+US Salernitana 1919,Guillermo Ochoa,1500000.0
+US Salernitana 1919,Luigi Sepe,1000000.0
+US Salernitana 1919,Alessandro Micai,500000.0
+US Salernitana 1919,Vincenzo Fiorillo,200000.0
+US Salernitana 1919,Jacopo De Matteis,25000.0
+US Salernitana 1919,Andrea Sorrentino,25000.0
+US Salernitana 1919,Pasquale Allocca,0.0
+US Salernitana 1919,Flavius Daniliuc,8000000.0
+US Salernitana 1919,Lorenzo Pirola,8000000.0
+US Salernitana 1919,Matteo Lovato,6000000.0
+US Salernitana 1919,Dylan Bronn,2500000.0
+US Salernitana 1919,William Troost-Ekong,2500000.0
+US Salernitana 1919,Norbert Gyömbér,1500000.0
+US Salernitana 1919,Valerio Mantovani,700000.0
+US Salernitana 1919,Federico Fazio,400000.0
+US Salernitana 1919,Frédéric Veseli,300000.0
+US Salernitana 1919,Andrei Motoc,75000.0
+US Salernitana 1919,Domagoj Bradarić,7000000.0
+US Salernitana 1919,Pawel Jaroszynski,450000.0
+US Salernitana 1919,Sanasi Sy,300000.0
+US Salernitana 1919,Pasquale Mazzocchi,4800000.0
+US Salernitana 1919,Junior Sambia,3500000.0
+US Salernitana 1919,Wajdi Kechrida,800000.0
+US Salernitana 1919,Emil Bohinen,3400000.0
+US Salernitana 1919,Ivan Radovanovic,400000.0
+US Salernitana 1919,Giulio Maggiore,5500000.0
+US Salernitana 1919,Lassana Coulibaly,5000000.0
+US Salernitana 1919,Tonny Vilhena,3800000.0
+US Salernitana 1919,Hans Nicolussi Caviglia,2000000.0
+US Salernitana 1919,Domen Crnigoj,1500000.0
+US Salernitana 1919,Leonardo Capezzi,350000.0
+US Salernitana 1919,Michele Cavion,350000.0
+US Salernitana 1919,Antonio Pio Iervolino,100000.0
+US Salernitana 1919,Grigoris Kastanos,1800000.0
+US Salernitana 1919,Antonio Candreva,1500000.0
+US Salernitana 1919,Reda Boultam,400000.0
+US Salernitana 1919,Andres Şfaiţ,50000.0
+US Salernitana 1919,Franck Ribéry,0.0
+US Salernitana 1919,Boulaye Dia,25000000.0
+US Salernitana 1919,Krzysztof Piatek,7000000.0
+US Salernitana 1919,Federico Bonazzoli,4000000.0
+US Salernitana 1919,Erik Botheim,3500000.0
+US Salernitana 1919,Diego Valencia,2000000.0
+US Salernitana 1919,Edoardo Vergani,450000.0
+US Salernitana 1919,Julian Kristoffersen,175000.0
+Spezia Calcio,Bartlomiej Dragowski,4500000.0
+Spezia Calcio,Jeroen Zoet,400000.0
+Spezia Calcio,Petar Zovko,100000.0
+Spezia Calcio,Federico Marchetti,50000.0
+Spezia Calcio,Leonardo Dido,10000.0
+Spezia Calcio,Jakub Kiwior,25000000.0
+Spezia Calcio,Dimitrios Nikolaou,3500000.0
+Spezia Calcio,Przemysław Wiśniewski,3000000.0
+Spezia Calcio,Mattia Caldara,2000000.0
+Spezia Calcio,Petko Hristov,900000.0
+Spezia Calcio,Elio Capradossi,750000.0
+Spezia Calcio,Nicolò Bertola,150000.0
+Spezia Calcio,Simone Giorgeschi,50000.0
+Spezia Calcio,Arkadiusz Reca,3000000.0
+Spezia Calcio,João Moutinho,1500000.0
+Spezia Calcio,Leonardo Gabelli,25000.0
+Spezia Calcio,Emil Holm,5000000.0
+Spezia Calcio,Kelvin Amian,3800000.0
+Spezia Calcio,Luca Vignali,1000000.0
+Spezia Calcio,Salva Ferrer,800000.0
+Spezia Calcio,Ethan Ampadu,9000000.0
+Spezia Calcio,Salvatore Esposito,3300000.0
+Spezia Calcio,Albin Ekdal,800000.0
+Spezia Calcio,Aurélien Nguiamba,300000.0
+Spezia Calcio,Simone Bastoni,6500000.0
+Spezia Calcio,Szymon Żurkowski,3500000.0
+Spezia Calcio,Mikael Egill Ellertsson,1500000.0
+Spezia Calcio,Mehdi Bourabia,1300000.0
+Spezia Calcio,Aimar Sher,800000.0
+Spezia Calcio,Tio Cipot,700000.0
+Spezia Calcio,Emil Kornvig,450000.0
+Spezia Calcio,Jacopo Sala,400000.0
+Spezia Calcio,Julius Beck,250000.0
+Spezia Calcio,Pietro Candelari,0.0
+Spezia Calcio,Daniel Maldini,3000000.0
+Spezia Calcio,Kevin Agudelo,3000000.0
+Spezia Calcio,Viktor Kovalenko,1500000.0
+Spezia Calcio,Leonardo Pedicillo,25000.0
+Spezia Calcio,Emmanuel Gyasi,2000000.0
+Spezia Calcio,Suf Podgoreanu,300000.0
+Spezia Calcio,Daniele Verde,3000000.0
+Spezia Calcio,Leandro Sanca,400000.0
+Spezia Calcio,Ognjen Stijepovic,50000.0
+Spezia Calcio,M'Bala Nzola,8000000.0
+Spezia Calcio,Eldor Shomurodov,6000000.0
+Spezia Calcio,Raimonds Krollis,2500000.0
+Spezia Calcio,David Strelec,1100000.0
+Spezia Calcio,Samuel Mraz,600000.0
+US Lecce,Wladimiro Falcone,5000000.0
+US Lecce,Federico Brancolini,200000.0
+US Lecce,Marco Bleve,150000.0
+US Lecce,Jasper Samooja,75000.0
+US Lecce,Federico Baschirotto,8000000.0
+US Lecce,Marin Pongračić,4000000.0
+US Lecce,Samuel Umtiti,4000000.0
+US Lecce,Pietro Ceccaroni,1600000.0
+US Lecce,Mert Çetin,1200000.0
+US Lecce,Simone Romagnoli,750000.0
+US Lecce,Kastriot Dermaku,400000.0
+US Lecce,Alessandro Tuia,400000.0
+US Lecce,Mattia Ciucci,25000.0
+US Lecce,Antonino Gallo,2500000.0
+US Lecce,Giuseppe Pezzella,2500000.0
+US Lecce,Gianluca Frabotta,1400000.0
+US Lecce,Valentin Gendrey,4000000.0
+US Lecce,Arturo Calabresi,1100000.0
+US Lecce,Tommaso Cassandro,900000.0
+US Lecce,Mats Lemmens,100000.0
+US Lecce,Morten Hjulmand,15000000.0
+US Lecce,Alexis Blin,2500000.0
+US Lecce,Joan González,6000000.0
+US Lecce,Youssef Maleh,4500000.0
+US Lecce,Kristijan Bistrovic,2500000.0
+US Lecce,Kristoffer Askildsen,2000000.0
+US Lecce,Daniel Samek,1500000.0
+US Lecce,Thórir Jóhann Helgason,800000.0
+US Lecce,Medon Berisha,500000.0
+US Lecce,Rémi Oudin,4000000.0
+US Lecce,Marcin Listkowski,300000.0
+US Lecce,Lameck Banda,4000000.0
+US Lecce,Federico Di Francesco,1800000.0
+US Lecce,Francesco Di Mariano,1400000.0
+US Lecce,Gabriel Strefezza,10000000.0
+US Lecce,Pablo Rodríguez,2000000.0
+US Lecce,Lorenzo Colombo,5000000.0
+US Lecce,Assan Ceesay,2500000.0
+US Lecce,Joel Voelkerling Persson,600000.0
+US Cremonese,Marco Carnesecchi,13000000.0
+US Cremonese,Andrei Radu,3500000.0
+US Cremonese,Mouhamadou Sarr,400000.0
+US Cremonese,Gianluca Saro,200000.0
+US Cremonese,Dorian Ciezkowski,100000.0
+US Cremonese,Johan Vásquez,3600000.0
+US Cremonese,Jack Hendry,3000000.0
+US Cremonese,Emanuel Aiwu,3000000.0
+US Cremonese,Luka Lochoshvili,1800000.0
+US Cremonese,Luca Ravanelli,1400000.0
+US Cremonese,Alex Ferrari,1000000.0
+US Cremonese,Vlad Chiricheș,900000.0
+US Cremonese,Matteo Bianchetti,800000.0
+US Cremonese,Maissa Ndiaye,300000.0
+US Cremonese,Paolo Gardoni,25000.0
+US Cremonese,Emanuele Valeri,3500000.0
+US Cremonese,Giacomo Quagliata,2000000.0
+US Cremonese,Leonardo Sernicola,2000000.0
+US Cremonese,Paolo Ghiglione,1300000.0
+US Cremonese,Charles Pickel,3800000.0
+US Cremonese,Soualiho Meïté,3500000.0
+US Cremonese,Michele Castagnetti,700000.0
+US Cremonese,Paolo Bartolomei,250000.0
+US Cremonese,Santiago Ascacíbar,6500000.0
+US Cremonese,Pablo Galdames,2300000.0
+US Cremonese,Gonzalo Escalante,2000000.0
+US Cremonese,Marco Benassi,1500000.0
+US Cremonese,Tommaso Milanese,1200000.0
+US Cremonese,Joshua Tenkorang,200000.0
+US Cremonese,Christian Acella,150000.0
+US Cremonese,Luca Borghesan,50000.0
+US Cremonese,Jaime Báez,1200000.0
+US Cremonese,Cristian Buonaiuto,800000.0
+US Cremonese,Dennis Politic,150000.0
+US Cremonese,Luca Zanimacchia,1800000.0
+US Cremonese,Felix Afena-Gyan,5000000.0
+US Cremonese,Cyriel Dessers,5000000.0
+US Cremonese,David Okereke,4000000.0
+US Cremonese,Frank Tsadjout,1200000.0
+US Cremonese,Samuel Di Carmine,350000.0
+US Cremonese,Daniel Ciofani,200000.0
+US Cremonese,Alberto Basso Ricci,100000.0
+UC Sampdoria,Emil Audero,6000000.0
+UC Sampdoria,Nikita Contini,500000.0
+UC Sampdoria,Martin Turk,400000.0
+UC Sampdoria,Elia Tantalocchi,100000.0
+UC Sampdoria,Nicola Ravaglia,100000.0
+UC Sampdoria,Federico Zorzi,10000.0
+UC Sampdoria,Koray Günter,3500000.0
+UC Sampdoria,Omar Colley,3000000.0
+UC Sampdoria,Bruno Amione,2700000.0
+UC Sampdoria,Maxime Leverbe,1200000.0
+UC Sampdoria,Alex Ferrari,1000000.0
+UC Sampdoria,Bram Nuytinck,1000000.0
+UC Sampdoria,Jeison Murillo,1000000.0
+UC Sampdoria,Marios Ikonomou,300000.0
+UC Sampdoria,Lorenzo Villa,75000.0
+UC Sampdoria,Arttu Lötjönen,25000.0
+UC Sampdoria,Tommaso Augello,2000000.0
+UC Sampdoria,Nicola Murru,1000000.0
+UC Sampdoria,Alessandro Zanoli,6000000.0
+UC Sampdoria,Fabio Depaoli,3000000.0
+UC Sampdoria,Bartosz Bereszyński,1600000.0
+UC Sampdoria,Andrea Conti,500000.0
+UC Sampdoria,Harry Winks,10000000.0
+UC Sampdoria,Tomás Rincón,800000.0
+UC Sampdoria,Gerard Yepes,500000.0
+UC Sampdoria,Emirhan İlkhan,4000000.0
+UC Sampdoria,Michaël Cuisance,3000000.0
+UC Sampdoria,Gonzalo Villar,2800000.0
+UC Sampdoria,Ronaldo Vieira,2000000.0
+UC Sampdoria,Valerio Verre,1800000.0
+UC Sampdoria,Flavio Paoletti,800000.0
+UC Sampdoria,Simone Trimboli,600000.0
+UC Sampdoria,Telasco Segovia,500000.0
+UC Sampdoria,Lorenzo Malagrida,400000.0
+UC Sampdoria,Abdelhamid Sabiri,2500000.0
+UC Sampdoria,Filip Djuricic,1800000.0
+UC Sampdoria,Antonio Candreva,1500000.0
+UC Sampdoria,Jesé,1000000.0
+UC Sampdoria,Samuel Ntanda,0.0
+UC Sampdoria,Ignacio Pussetto,2500000.0
+UC Sampdoria,Mehdi Léris,2500000.0
+UC Sampdoria,Sam Lammers,2000000.0
+UC Sampdoria,Manuel De Luca,2000000.0
+UC Sampdoria,Manolo Gabbiadini,2000000.0
+UC Sampdoria,Francesco Caputo,1500000.0
+UC Sampdoria,Daniele Montevago,800000.0
+UC Sampdoria,Fabio Quagliarella,500000.0
+UC Sampdoria,Mihailo Ivanovic,150000.0
